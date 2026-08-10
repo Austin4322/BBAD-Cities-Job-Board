@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-08-09T11:00:00.000Z",
+  "count": 4,
+  "newIds": ["demo-1"],
+  "_note": "SAMPLE DATA for previewing the site — replaced by `npm run build` / the daily Action.",
+  "jobs": [
+    { "id": "demo-1", "title": "Software Engineer II", "company": "(Sample) Acme Logistics", "cityId": "atl", "location": "Atlanta, GA", "url": "https://example.com", "postedAt": "2026-08-08T09:00:00Z", "source": "Greenhouse", "salary": "", "role": "Engineering", "blurb": "Supply-chain software for mid-size shippers.", "earlyCareer": true, "remote": false },
+    { "id": "demo-2", "title": "Growth Marketing Associate", "company": "(Sample) Magic City Health", "cityId": "bhm", "location": "Remote - US", "url": "https://example.com", "postedAt": "2026-08-07T09:00:00Z", "source": "Greenhouse", "salary": "$55k–$70k", "role": "Growth & Marketing", "blurb": "Telehealth platform for rural clinics.", "earlyCareer": true, "remote": true },
+    { "id": "demo-3", "title": "Product Designer", "company": "(Sample) Motor City Mobility", "cityId": "det", "location": "Detroit, MI", "url": "https://example.com", "postedAt": "2026-08-05T09:00:00Z", "source": "Ashby", "salary": "", "role": "Design", "blurb": "EV fleet charging tools.", "earlyCareer": true, "remote": false },
+    { "id": "demo-4", "title": "Account Executive", "company": "(Sample) Harbor Analytics", "cityId": "dmv", "location": "Baltimore, MD", "url": "https://example.com", "postedAt": "2026-08-02T09:00:00Z", "source": "TheirStack", "salary": "$65k–$85k", "role": "Sales", "blurb": "Compliance data for gov contractors.", "earlyCareer": false, "remote": false }
+  ]
+}

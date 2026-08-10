@@ -1,0 +1,16 @@
+{
+  "name": "ember-jobs",
+  "version": "1.0.0",
+  "description": "Daily-updated startup job board for the Ember Fellowship cities: Atlanta, Birmingham, Detroit, Baltimore/DC",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate-companies.js",
+    "serve": "npx serve site",
+    "discover": "node scripts/discover-companies.js",
+    "digest": "node scripts/digest.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
