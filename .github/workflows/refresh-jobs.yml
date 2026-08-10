@@ -1,51 +1,34 @@
 name: Refresh jobs daily
 
-# Builds the job data AND publishes the site to GitHub Pages in one run,
-# so the live board always matches the data that was just fetched.
-#
-# Requires: Settings → Pages → Source = "GitHub Actions"
-
 on:
   schedule:
     - cron: "0 11 * * *" # 6/7am ET daily — jobs are fresh before fellows wake up
-  workflow_dispatch: {} # manual "Refresh now" button in the Actions tab
+  workflow_dispatch: # manual "Refresh now" button in the Actions tab
+    inputs:
+      force_theirstack:
+        description: "Force a TheirStack pull now (ignores the weekly cadence, re-pulls the full window)"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write # commit jobs.json back to the repo
-  pages: write # publish to Pages
-  id-token: write # required by the Pages deploy action
-
-# Never let two runs deploy at once; let a newer run finish rather than cancel it.
-concurrency:
-  group: pages
-  cancel-in-progress: false
+  contents: write
 
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: Check project layout
-        run: |
-          if [ ! -f package.json ]; then
-            echo "::error::package.json not found at the repo root."
-            echo "The upload is probably nested. Repo root should contain package.json,"
-            echo "scripts/, data/, site/ and .github/ directly. Found instead:"
-            ls -la
-            exit 1
-          fi
-          echo "Layout OK"
 
       - name: Build jobs.json
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           THEIRSTACK_API_KEY: ${{ secrets.THEIRSTACK_API_KEY }}
           THEIRSTACK_MONTHLY_CREDITS: ${{ vars.THEIRSTACK_MONTHLY_CREDITS }}
+          THEIRSTACK_FORCE: ${{ inputs.force_theirstack }}
         run: npm run build
 
       - name: Send morning digest
@@ -56,27 +39,10 @@ jobs:
           SITE_URL: ${{ secrets.SITE_URL }}
         run: node scripts/digest.js
 
-      - name: Commit updated data
+      - name: Commit updated jobs.json
         run: |
           git config user.name "ember-jobs-bot"
           git config user.email "actions@github.com"
           git add site/jobs.json data/theirstack-usage.json
           git diff --cached --quiet || git commit -m "chore: daily jobs refresh $(date -u +%F)"
           git push
-
-      # Publish the site/ folder — this is what makes the board public.
-      - name: Upload site as Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
