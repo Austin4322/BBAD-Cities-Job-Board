@@ -170,7 +170,7 @@ Nothing. Jobs refresh at 6/7am ET; discovery runs Mondays. Manual refresh anytim
 
 - **Freshness window:** `MAX_AGE_DAYS` in `scripts/config.js` (default 30 — tighten to 21 or 14 once you have more companies). **NEW badge:** `NEW_BADGE_DAYS` (default 3).
 - **Remote roles:** a role posted as "Remote - US" by a company in `companies.json` is kept, attributed to that company's home city, and tagged `remote: true` so the site's "Hide remote" toggle can filter it. To exclude them entirely, remove the `remote` branch in `fetch-ats.js`.
-- **Aggregator filters:** `TITLE_EXCLUDES` and the server-side filters (employee cap, employment type) in `fetch-theirstack.js`; location regexes via `tsPatterns` in `config.js`.
+- **Aggregator filters:** `TITLE_EXCLUDES` and the server-side filters (employee cap, employment type) in `fetch-theirstack.js`; locations via `tsLocationIds` (GeoNames IDs, TheirStack's recommended structured filter) with `tsPatterns` as an automatic fallback when an ID query returns zero, in `config.js`.
 - **Role relevance:** `TRADE_RE` (hard exclusions — trades, warehouse, food service, clinical) and `PRO_RE` (professional-role signals) in `config.js`. Blacklist always wins; unrecognized titles pass only from curated companies, not from the aggregator. Claude enrichment applies the same rule semantically as a second pass.
 - **Credit budget:** repo variable `THEIRSTACK_MONTHLY_CREDITS` (default 200). ≥1200 switches pulls from weekly to daily.
 - **Location matching:** `match`/`exclude` lists per city in `config.js`.
