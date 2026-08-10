@@ -13,18 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
       - name: Build jobs.json
         env:
           THEIRSTACK_API_KEY: ${{ secrets.THEIRSTACK_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           THEIRSTACK_MONTHLY_CREDITS: ${{ vars.THEIRSTACK_MONTHLY_CREDITS }}
         run: npm run build
-
       - name: Send morning digest
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
@@ -32,7 +29,6 @@ jobs:
           DIGEST_BCC: ${{ secrets.DIGEST_BCC }}
           SITE_URL: ${{ secrets.SITE_URL }}
         run: node scripts/digest.js
-
       - name: Commit updated jobs.json
         run: |
           git config user.name "ember-jobs-bot"
