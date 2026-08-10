@@ -1,0 +1,10 @@
+{
+  "_readme": "Curated startups per city. `ats` is one of: greenhouse | lever | ashby. `token` is the company's board slug (the last path segment of their job-board URL, e.g. boards.greenhouse.io/<token>, jobs.lever.co/<token>, jobs.ashbyhq.com/<token>). Run `npm run validate` to test every token against the live APIs. The weekly discovery agent (npm run discover) adds new validated companies automatically; add your own here anytime.",
+  "companies": [
+    { "name": "Salesloft", "city": "atl", "ats": "greenhouse", "token": "salesloft", "verified": true },
+    { "name": "Calendly", "city": "atl", "ats": "greenhouse", "token": "calendly", "verified": true },
+    { "name": "Fleetio", "city": "bhm", "ats": "greenhouse", "token": "fleetio", "verified": true },
+    { "name": "StockX", "city": "det", "ats": "greenhouse", "token": "stockx", "verified": true },
+    { "name": "Arcadia", "city": "dmv", "ats": "greenhouse", "token": "arcadiacareers", "verified": true }
+  ]
+}
