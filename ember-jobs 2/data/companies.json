@@ -1,0 +1,30 @@
+{
+  "_readme": "Curated startups per city. `ats` is one of: greenhouse | lever | ashby. `token` is the company's board slug (the last path segment of their job-board URL, e.g. boards.greenhouse.io/<token>, jobs.lever.co/<token>, jobs.ashbyhq.com/<token>). Run `npm run validate` to test every token against the live APIs — it marks dead ones so you can fix or remove them. Add companies freely; this list is the single highest-leverage thing to maintain.",
+  "companies": [
+    { "name": "Stord", "city": "atl", "ats": "greenhouse", "token": "stord", "verified": false },
+    { "name": "Salesloft", "city": "atl", "ats": "greenhouse", "token": "salesloft", "verified": false },
+    { "name": "Calendly", "city": "atl", "ats": "greenhouse", "token": "calendly", "verified": false },
+    { "name": "Greenlight", "city": "atl", "ats": "greenhouse", "token": "greenlightfinancialtechnology", "verified": false },
+    { "name": "Instant Teams", "city": "atl", "ats": "lever", "token": "instantteams", "verified": false },
+    { "name": "FullStory", "city": "atl", "ats": "greenhouse", "token": "fullstory", "verified": false },
+    { "name": "Terminus", "city": "atl", "ats": "greenhouse", "token": "terminus", "verified": false },
+    { "name": "Interface.ai", "city": "atl", "ats": "lever", "token": "interface", "verified": false },
+
+    { "name": "Fleetio", "city": "bhm", "ats": "greenhouse", "token": "fleetio", "verified": false },
+    { "name": "Landing", "city": "bhm", "ats": "lever", "token": "landing", "verified": false },
+    { "name": "Shipt", "city": "bhm", "ats": "greenhouse", "token": "shipt", "verified": false },
+    { "name": "Help Lightning", "city": "bhm", "ats": "lever", "token": "helplightning", "verified": false },
+
+    { "name": "StockX", "city": "det", "ats": "greenhouse", "token": "stockx", "verified": false },
+    { "name": "Bloomscape", "city": "det", "ats": "greenhouse", "token": "bloomscape", "verified": false },
+    { "name": "Autobooks", "city": "det", "ats": "greenhouse", "token": "autobooks", "verified": false },
+    { "name": "Ludlow Ventures portfolio (add cos)", "city": "det", "ats": "greenhouse", "token": "REPLACE_ME", "verified": false },
+
+    { "name": "FiscalNote", "city": "dmv", "ats": "greenhouse", "token": "fiscalnote", "verified": false },
+    { "name": "Arcadia (energy)", "city": "dmv", "ats": "greenhouse", "token": "arcadiacareers", "verified": false },
+    { "name": "Quorum", "city": "dmv", "ats": "lever", "token": "quorum", "verified": false },
+    { "name": "Protenus", "city": "dmv", "ats": "greenhouse", "token": "protenus", "verified": false },
+    { "name": "Interos", "city": "dmv", "ats": "greenhouse", "token": "interos", "verified": false },
+    { "name": "Aledade", "city": "dmv", "ats": "greenhouse", "token": "aledade", "verified": false }
+  ]
+}
