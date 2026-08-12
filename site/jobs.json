@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-08-11T11:34:20.481Z",
-  "count": 26,
-  "newIds": [],
+  "updatedAt": "2026-08-12T11:36:31.302Z",
+  "count": 27,
+  "newIds": [
+    "gh-fleetio-5209546007"
+  ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5209546007",
+      "title": "Web Developer",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5209546007",
+      "postedAt": "2026-08-11T14:27:35-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet management platform seeks web developer.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8119953",
       "title": "Salesforce Business Systems Administrator",
