@@ -1,23 +1,87 @@
 {
-  "updatedAt": "2026-08-12T11:36:31.302Z",
-  "count": 27,
+  "updatedAt": "2026-08-13T11:36:15.539Z",
+  "count": 28,
   "newIds": [
-    "gh-fleetio-5209546007"
+    "gh-stockx-8414215002",
+    "gh-stockx-8404224002",
+    "gh-stockx-8414220002",
+    "gh-stockx-8400306002",
+    "gh-stockx-8433854002"
   ],
   "jobs": [
     {
-      "id": "gh-fleetio-5209546007",
-      "title": "Web Developer",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5209546007",
-      "postedAt": "2026-08-11T14:27:35-04:00",
+      "id": "gh-stockx-8433854002",
+      "title": "Category Manager - Trading Cards",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8433854002",
+      "postedAt": "2026-08-12T14:05:42-04:00",
       "source": "Greenhouse",
       "salary": "",
-      "cityId": "bhm",
+      "cityId": "det",
       "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management platform seeks web developer.",
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking trading cards category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8414220002",
+      "title": "Category Manager - Sneakers",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414220002",
+      "postedAt": "2026-08-12T14:04:25-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking sneaker category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8404224002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8404224002",
+      "postedAt": "2026-08-12T14:00:28-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking apparel category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400306002",
+      "title": "Category Manager - StockX Live",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400306002",
+      "postedAt": "2026-08-12T13:58:23-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking StockX Live category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8414215002",
+      "title": "Category Manager",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414215002",
+      "postedAt": "2026-08-12T13:57:30-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking category manager.",
       "earlyCareer": true
     },
     {
@@ -94,21 +158,6 @@
       "role": "Data",
       "blurb": "Enterprise revenue intelligence and sales enablement platform.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5206783007",
-      "title": "Senior Software Engineer, Fleet Intelligence",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5206783007",
-      "postedAt": "2026-08-07T09:57:18-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-8106373",
@@ -351,21 +400,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-salesloft-7905351",
-      "title": "Principal Engineer Revenue Management & Intelligence ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=7905351",
-      "postedAt": "2026-07-15T19:07:07-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5180391007",
       "title": "Senior Software Engineer, Marketplace Payments",
       "company": "Fleetio",
@@ -394,21 +428,6 @@
       "role": "Growth & Marketing",
       "blurb": "Fleetio fleet management software seeks senior lifecycle marketing manager.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8003853",
-      "title": "Commercial Account Manager",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
-      "postedAt": "2026-07-13T12:36:11-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
-      "earlyCareer": true
     }
   ]
 }
