@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-08-13T11:36:15.539Z",
+  "updatedAt": "2026-08-14T11:34:40.366Z",
   "count": 28,
   "newIds": [
-    "gh-stockx-8414215002",
-    "gh-stockx-8404224002",
-    "gh-stockx-8414220002",
-    "gh-stockx-8400306002",
-    "gh-stockx-8433854002"
+    "gh-stockx-8476974002",
+    "gh-fleetio-5211486007"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5211486007",
+      "title": "SaaS Associate Customer Support Specialist (Remote - UK)",
+      "company": "Fleetio",
+      "location": "Remote - UK",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5211486007",
+      "postedAt": "2026-08-13T12:05:25-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Fleetio fleet management SaaS customer support specialist",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8476974002",
+      "title": "Seasonal Operations Specialist",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8476974002",
+      "postedAt": "2026-08-13T10:03:55-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX sneaker resale marketplace, seasonal operations specialist.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8433854002",
       "title": "Category Manager - Trading Cards",
@@ -397,36 +424,6 @@
       "remote": true,
       "role": "Product",
       "blurb": "Fleetio fleet management software seeks principal product manager.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5180391007",
-      "title": "Senior Software Engineer, Marketplace Payments",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5180391007",
-      "postedAt": "2026-07-14T18:06:57-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5186559007",
-      "title": "Senior Lifecycle Marketing Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5186559007",
-      "postedAt": "2026-07-14T11:47:57-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management software seeks senior lifecycle marketing manager.",
       "earlyCareer": false
     }
   ]
