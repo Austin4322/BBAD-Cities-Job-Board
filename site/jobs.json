@@ -1,11 +1,38 @@
 {
-  "updatedAt": "2026-08-14T11:34:40.366Z",
-  "count": 28,
-  "newIds": [
-    "gh-stockx-8476974002",
-    "gh-fleetio-5211486007"
-  ],
+  "updatedAt": "2026-08-15T11:08:07.756Z",
+  "count": 27,
+  "newIds": [],
   "jobs": [
+    {
+      "id": "gh-fleetio-4823689007",
+      "title": "Software Engineer, Growth",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/4823689007",
+      "postedAt": "2026-08-14T11:53:24-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleet operations management software platform for organizations.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5178399007",
+      "title": "Senior Software Engineer, Growth",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5178399007",
+      "postedAt": "2026-08-14T11:52:12-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleet operations management software platform for organizations.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5211486007",
       "title": "SaaS Associate Customer Support Specialist (Remote - UK)",
@@ -64,21 +91,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "StockX marketplace seeking sneaker category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8404224002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8404224002",
-      "postedAt": "2026-08-12T14:00:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking apparel category manager.",
       "earlyCareer": true
     },
     {
@@ -290,36 +302,6 @@
       "role": "Engineering",
       "blurb": "Fleetio fleet management software seeks engineering manager, payments.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-4823689007",
-      "title": "Software Engineer, Growth",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/4823689007",
-      "postedAt": "2026-07-30T12:45:08-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5178399007",
-      "title": "Senior Software Engineer, Growth",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5178399007",
-      "postedAt": "2026-07-30T12:44:31-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5193645007",
