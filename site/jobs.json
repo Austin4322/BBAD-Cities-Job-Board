@@ -1,7 +1,9 @@
 {
-  "updatedAt": "2026-08-15T11:08:07.756Z",
+  "updatedAt": "2026-08-16T11:09:05.114Z",
   "count": 27,
-  "newIds": [],
+  "newIds": [
+    "gh-stockx-8404224002"
+  ],
   "jobs": [
     {
       "id": "gh-fleetio-4823689007",
@@ -91,6 +93,21 @@
       "remote": true,
       "role": "Operations",
       "blurb": "StockX marketplace seeking sneaker category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8404224002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8404224002",
+      "postedAt": "2026-08-12T14:00:28-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "StockX, sneaker/apparel marketplace, category manager.",
       "earlyCareer": true
     },
     {
@@ -392,21 +409,6 @@
       "role": "Engineering",
       "blurb": "Secondary marketplace for cultural goods and collectibles.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5188640007",
-      "title": "Principal Product Manager, Telematics & Connected Ecosystem",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5188640007",
-      "postedAt": "2026-07-16T12:32:48-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Product",
-      "blurb": "Fleetio fleet management software seeks principal product manager.",
-      "earlyCareer": false
     }
   ]
 }
