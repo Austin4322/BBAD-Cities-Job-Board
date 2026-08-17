@@ -1,9 +1,7 @@
 {
-  "updatedAt": "2026-08-16T11:09:05.114Z",
-  "count": 27,
-  "newIds": [
-    "gh-stockx-8404224002"
-  ],
+  "updatedAt": "2026-08-17T11:13:58.018Z",
+  "count": 25,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-fleetio-4823689007",
@@ -93,21 +91,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "StockX marketplace seeking sneaker category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8404224002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8404224002",
-      "postedAt": "2026-08-12T14:00:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX, sneaker/apparel marketplace, category manager.",
       "earlyCareer": true
     },
     {
@@ -394,21 +377,6 @@
       "role": "Engineering",
       "blurb": "Enterprise revenue intelligence and sales enablement platform.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8635956002",
-      "title": "AI Automation Engineer",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8635956002",
-      "postedAt": "2026-07-17T11:48:09-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Secondary marketplace for cultural goods and collectibles.",
-      "earlyCareer": true
     }
   ]
 }
