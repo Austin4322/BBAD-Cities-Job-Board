@@ -1,8 +1,71 @@
 {
-  "updatedAt": "2026-08-17T11:13:58.018Z",
-  "count": 25,
-  "newIds": [],
+  "updatedAt": "2026-08-18T11:13:12.969Z",
+  "count": 26,
+  "newIds": [
+    "gh-fleetio-5213856007",
+    "gh-stockx-8400380002"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-7890512",
+      "title": "Manager, Security Engineering & Operations ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=7890512",
+      "postedAt": "2026-08-17T16:32:53-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5213856007",
+      "title": "Software Engineer, Marketplace",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5213856007",
+      "postedAt": "2026-08-17T15:03:07-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet management software seeks software engineer.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8114019",
+      "title": "Financial Analyst, R&D",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8114019",
+      "postedAt": "2026-08-17T11:33:41-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Data",
+      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8106373",
+      "title": "Financial Analyst ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8106373",
+      "postedAt": "2026-08-17T11:32:53-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Data",
+      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-fleetio-4823689007",
       "title": "Software Engineer, Growth",
@@ -32,21 +95,6 @@
       "role": "Engineering",
       "blurb": "Fleet operations management software platform for organizations.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5211486007",
-      "title": "SaaS Associate Customer Support Specialist (Remote - UK)",
-      "company": "Fleetio",
-      "location": "Remote - UK",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5211486007",
-      "postedAt": "2026-08-13T12:05:25-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio fleet management SaaS customer support specialist",
-      "earlyCareer": true
     },
     {
       "id": "gh-stockx-8476974002",
@@ -91,6 +139,21 @@
       "remote": true,
       "role": "Operations",
       "blurb": "StockX marketplace seeking sneaker category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400380002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
+      "postedAt": "2026-08-12T14:00:12-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX marketplace hiring category manager for apparel.",
       "earlyCareer": true
     },
     {
@@ -181,36 +244,6 @@
       "salary": "$124,179.88 - $187,506.95 a year",
       "role": "Engineering",
       "blurb": "Government modernization software engineering at startup",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8114019",
-      "title": "Financial Analyst, R&D",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8114019",
-      "postedAt": "2026-08-07T12:30:49-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Data",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8106373",
-      "title": "Financial Analyst ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8106373",
-      "postedAt": "2026-08-05T13:53:05-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Data",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
       "earlyCareer": true
     },
     {
@@ -361,21 +394,6 @@
       "remote": true,
       "role": "Growth & Marketing",
       "blurb": "Fleetio fleet management software seeks director of product marketing.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-7890512",
-      "title": "Manager, Security Engineering & Operations ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=7890512",
-      "postedAt": "2026-07-20T19:49:39-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
       "earlyCareer": false
     }
   ]
