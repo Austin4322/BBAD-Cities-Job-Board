@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-08-18T11:13:12.969Z",
-  "count": 26,
+  "updatedAt": "2026-08-19T11:12:59.288Z",
+  "count": 27,
   "newIds": [
-    "gh-fleetio-5213856007",
-    "gh-stockx-8400380002"
+    "gh-stockx-8404224002",
+    "gh-stockx-8400396002",
+    "gh-stockx-8577305002"
   ],
   "jobs": [
     {
@@ -127,33 +128,33 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8414220002",
+      "id": "gh-stockx-8400396002",
       "title": "Category Manager - Sneakers",
       "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414220002",
-      "postedAt": "2026-08-12T14:04:25-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking sneaker category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8400380002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
       "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
-      "postedAt": "2026-08-12T14:00:12-04:00",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400396002",
+      "postedAt": "2026-08-12T14:04:08-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
       "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace hiring category manager for apparel.",
+      "role": "Product",
+      "blurb": "StockX marketplace category management for sneakers and collectibles.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8404224002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8404224002",
+      "postedAt": "2026-08-12T14:00:28-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Other",
+      "blurb": "StockX, marketplace platform. Category management for apparel.",
       "earlyCareer": true
     },
     {
@@ -364,6 +365,21 @@
       "remote": false,
       "role": "Operations",
       "blurb": "Secondary marketplace for cultural goods and collectibles.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8577305002",
+      "title": "Sneaker Verification Expert",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8577305002",
+      "postedAt": "2026-07-24T19:57:48-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX sneaker authentication and quality verification role.",
       "earlyCareer": true
     },
     {
