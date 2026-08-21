@@ -1,24 +1,42 @@
 {
-  "updatedAt": "2026-08-20T11:14:31.677Z",
-  "count": 42,
+  "updatedAt": "2026-08-21T11:14:13.380Z",
+  "count": 44,
   "newIds": [
-    "gh-fleetio-5216052007",
-    "gh-fleetio-5216220007",
-    "gh-calendly-8701083002",
-    "gh-calendly-8652325002",
-    "gh-calendly-8381613002",
-    "gh-calendly-8464846002",
-    "gh-calendly-8685120002",
-    "gh-calendly-8628979002",
-    "gh-calendly-8139892002",
-    "gh-salesloft-8123080",
-    "gh-salesloft-8120871",
-    "gh-salesloft-7711111",
-    "gh-salesloft-8022101",
-    "gh-salesloft-8084473",
-    "gh-salesloft-8083565"
+    "gh-fleetio-5211486007",
+    "gh-fleetio-5217902007",
+    "gh-salesloft-8054577"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5217902007",
+      "title": "Senior Solutions Engineer",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5217902007",
+      "postedAt": "2026-08-20T16:16:13-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleet management software platform for organizations worldwide",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5211486007",
+      "title": "Associate Product Support Specialist (Remote - UK)",
+      "company": "Fleetio",
+      "location": "Remote - UK",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5211486007",
+      "postedAt": "2026-08-20T10:33:58-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Fleet management software platform for organizations worldwide",
+      "earlyCareer": true
+    },
     {
       "id": "gh-fleetio-5216052007",
       "title": "Outbound Sales Development Manager",
@@ -620,6 +638,21 @@
       "earlyCareer": true
     },
     {
+      "id": "gh-salesloft-8054577",
+      "title": "Staff Product Manager - AI Platform",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8054577",
+      "postedAt": "2026-07-22T10:53:23-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Product",
+      "blurb": "Sales engagement and AI platform for revenue teams",
+      "earlyCareer": false
+    },
+    {
       "id": "gh-fleetio-5177987007",
       "title": "Global Controller",
       "company": "Fleetio",
@@ -632,21 +665,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Fleetio fleet management software seeks global controller.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5192196007",
-      "title": "Director, Product Marketing, GTM Strategy",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5192196007",
-      "postedAt": "2026-07-21T11:29:29-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management software seeks director of product marketing.",
       "earlyCareer": false
     }
   ]
