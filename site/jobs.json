@@ -1,12 +1,25 @@
 {
-  "updatedAt": "2026-08-21T11:14:13.380Z",
-  "count": 44,
+  "updatedAt": "2026-08-22T11:08:56.583Z",
+  "count": 40,
   "newIds": [
-    "gh-fleetio-5211486007",
-    "gh-fleetio-5217902007",
-    "gh-salesloft-8054577"
+    "gh-salesloft-8127816"
   ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8127816",
+      "title": "Salesforce Business Systems Administrator",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8127816",
+      "postedAt": "2026-08-21T15:18:00-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft revenue intelligence platform needs Salesforce admin.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-fleetio-5217902007",
       "title": "Senior Solutions Engineer",
@@ -233,36 +246,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8400396002",
-      "title": "Category Manager - Sneakers",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400396002",
-      "postedAt": "2026-08-12T14:04:08-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Product",
-      "blurb": "StockX marketplace category management for sneakers and collectibles.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8404224002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8404224002",
-      "postedAt": "2026-08-12T14:00:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Other",
-      "blurb": "StockX, marketplace platform. Category management for apparel.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-stockx-8400306002",
       "title": "Category Manager - StockX Live",
       "company": "StockX",
@@ -336,21 +319,6 @@
       "role": "Engineering",
       "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8119953",
-      "title": "Salesforce Business Systems Administrator",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8119953",
-      "postedAt": "2026-08-10T14:26:50-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
-      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5188208007",
@@ -636,36 +604,6 @@
       "role": "Operations",
       "blurb": "StockX sneaker authentication and quality verification role.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8054577",
-      "title": "Staff Product Manager - AI Platform",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8054577",
-      "postedAt": "2026-07-22T10:53:23-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Product",
-      "blurb": "Sales engagement and AI platform for revenue teams",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5177987007",
-      "title": "Global Controller",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5177987007",
-      "postedAt": "2026-07-22T08:10:40-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio fleet management software seeks global controller.",
-      "earlyCareer": false
     }
   ]
 }
