@@ -1,8 +1,10 @@
 {
-  "updatedAt": "2026-08-22T11:08:56.583Z",
-  "count": 40,
+  "updatedAt": "2026-08-23T11:09:21.825Z",
+  "count": 43,
   "newIds": [
-    "gh-salesloft-8127816"
+    "gh-fleetio-5206783007",
+    "gh-stockx-8400380002",
+    "gh-stockx-8414220002"
   ],
   "jobs": [
     {
@@ -19,6 +21,21 @@
       "role": "Operations",
       "blurb": "Salesloft revenue intelligence platform needs Salesforce admin.",
       "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5206783007",
+      "title": "Senior Software Engineer, Fleet Intelligence",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5206783007",
+      "postedAt": "2026-08-21T12:31:37-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleet management software platform for transportation operations.",
+      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5217902007",
@@ -243,6 +260,36 @@
       "remote": true,
       "role": "Operations",
       "blurb": "StockX marketplace seeking trading cards category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8414220002",
+      "title": "Category Manager - Sneakers",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414220002",
+      "postedAt": "2026-08-12T14:04:25-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Product",
+      "blurb": "Marketplace platform for cultural goods and collectibles.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400380002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
+      "postedAt": "2026-08-12T14:00:12-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Product",
+      "blurb": "Marketplace platform for cultural goods and collectibles.",
       "earlyCareer": true
     },
     {
