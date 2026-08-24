@@ -1,11 +1,7 @@
 {
-  "updatedAt": "2026-08-23T11:09:21.825Z",
-  "count": 43,
-  "newIds": [
-    "gh-fleetio-5206783007",
-    "gh-stockx-8400380002",
-    "gh-stockx-8414220002"
-  ],
+  "updatedAt": "2026-08-24T11:16:06.576Z",
+  "count": 41,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-salesloft-8127816",
@@ -621,36 +617,6 @@
       "role": "Product",
       "blurb": "Revenue intelligence platform for enterprise sales teams.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8577293002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8577293002",
-      "postedAt": "2026-07-24T20:29:18-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "Secondary marketplace for cultural goods and collectibles.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8577305002",
-      "title": "Sneaker Verification Expert",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8577305002",
-      "postedAt": "2026-07-24T19:57:48-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX sneaker authentication and quality verification role.",
-      "earlyCareer": true
     }
   ]
 }
