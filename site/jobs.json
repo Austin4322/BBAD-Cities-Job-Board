@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-08-24T11:16:06.576Z",
+  "updatedAt": "2026-08-25T11:14:57.754Z",
   "count": 41,
-  "newIds": [],
+  "newIds": [
+    "gh-salesloft-8003853"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8003853",
+      "title": "Commercial Account Manager",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
+      "postedAt": "2026-08-24T18:19:12-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Salesloft sales engagement platform; Commercial Account Manager role.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8127816",
       "title": "Salesforce Business Systems Administrator",
@@ -496,21 +513,6 @@
       "remote": true,
       "role": "Sales",
       "blurb": "Fleetio fleet management software seeks mid-market account executive.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-4922101007",
-      "title": "Outbound Sales Development Representative",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/4922101007",
-      "postedAt": "2026-08-04T09:31:24-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks outbound sales development representative.",
       "earlyCareer": true
     },
     {
