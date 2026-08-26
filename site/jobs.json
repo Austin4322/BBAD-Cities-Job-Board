@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-25T11:14:57.754Z",
-  "count": 41,
+  "updatedAt": "2026-08-26T11:17:16.192Z",
+  "count": 42,
   "newIds": [
-    "gh-salesloft-8003853"
+    "gh-stockx-8602952002"
   ],
   "jobs": [
     {
@@ -11,13 +11,58 @@
       "company": "Salesloft",
       "location": "United States, Remote",
       "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
-      "postedAt": "2026-08-24T18:19:12-04:00",
+      "postedAt": "2026-08-25T17:56:34-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
       "remote": true,
       "role": "Sales",
       "blurb": "Salesloft sales engagement platform; Commercial Account Manager role.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8602952002",
+      "title": "Business Development Manager, Trading Cards & Collectibles - StockX Live",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8602952002",
+      "postedAt": "2026-08-25T13:07:42-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Sales",
+      "blurb": "StockX business development for trading cards marketplace.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400306002",
+      "title": "Category Manager - StockX Live",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400306002",
+      "postedAt": "2026-08-25T12:12:03-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking StockX Live category manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8414215002",
+      "title": "Category Manager",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414215002",
+      "postedAt": "2026-08-25T12:10:14-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking category manager.",
       "earlyCareer": true
     },
     {
@@ -303,36 +348,6 @@
       "remote": false,
       "role": "Product",
       "blurb": "Marketplace platform for cultural goods and collectibles.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8400306002",
-      "title": "Category Manager - StockX Live",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400306002",
-      "postedAt": "2026-08-12T13:58:23-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking StockX Live category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8414215002",
-      "title": "Category Manager",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414215002",
-      "postedAt": "2026-08-12T13:57:30-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking category manager.",
       "earlyCareer": true
     },
     {
