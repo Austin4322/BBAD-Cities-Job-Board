@@ -1,10 +1,56 @@
 {
-  "updatedAt": "2026-08-26T11:17:16.192Z",
-  "count": 42,
+  "updatedAt": "2026-08-27T20:49:23.961Z",
+  "count": 38,
   "newIds": [
-    "gh-stockx-8602952002"
+    "gh-stockx-8742251002",
+    "gh-fleetio-5207874007"
   ],
   "jobs": [
+    {
+      "id": "gh-stockx-8742251002",
+      "title": "Senior Tax Analyst, International Indirect Tax (VAT/GST/JCT)",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8742251002",
+      "postedAt": "2026-08-27T13:28:40-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Data",
+      "blurb": "StockX Senior Tax Analyst for International Indirect Tax.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5216052007",
+      "title": "Outbound Sales Development Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5216052007",
+      "postedAt": "2026-08-27T13:02:27-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleet management software platform for transportation operations.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-calendly-8139892002",
+      "title": "Staff Product Manager, AI Scheduling ",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
+      "postedAt": "2026-08-27T02:07:25-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "Scheduling software relied on by millions of users.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-salesloft-8003853",
       "title": "Commercial Account Manager",
@@ -66,6 +112,21 @@
       "earlyCareer": true
     },
     {
+      "id": "gh-fleetio-5207874007",
+      "title": "Sr. Manager Marketing Operations",
+      "company": "Fleetio",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5207874007",
+      "postedAt": "2026-08-24T13:31:38-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "Fleetio Sr. Manager Marketing Operations for fleet software.",
+      "earlyCareer": false
+    },
+    {
       "id": "gh-salesloft-8127816",
       "title": "Salesforce Business Systems Administrator",
       "company": "Salesloft",
@@ -124,21 +185,6 @@
       "role": "Operations",
       "blurb": "Fleet management software platform for organizations worldwide",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5216052007",
-      "title": "Outbound Sales Development Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5216052007",
-      "postedAt": "2026-08-19T13:53:31-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleet management software platform for transportation operations.",
-      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5216220007",
@@ -261,21 +307,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-stockx-8476974002",
-      "title": "Seasonal Operations Specialist",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8476974002",
-      "postedAt": "2026-08-13T10:03:55-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX sneaker resale marketplace, seasonal operations specialist.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-calendly-8701083002",
       "title": "Customer Success Manager II",
       "company": "Calendly",
@@ -318,36 +349,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "StockX marketplace seeking trading cards category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8414220002",
-      "title": "Category Manager - Sneakers",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414220002",
-      "postedAt": "2026-08-12T14:04:25-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Product",
-      "blurb": "Marketplace platform for cultural goods and collectibles.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8400380002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
-      "postedAt": "2026-08-12T14:00:12-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Marketplace platform for cultural goods and collectibles.",
       "earlyCareer": true
     },
     {
@@ -439,21 +440,6 @@
       "role": "Engineering",
       "blurb": "Government modernization software engineering at startup",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-calendly-8139892002",
-      "title": "Staff Product Manager, AI Scheduling ",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
-      "postedAt": "2026-08-07T13:28:34-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-8022101",
@@ -587,51 +573,6 @@
       "cityId": "atl",
       "remote": true,
       "role": "Sales",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-calendly-8652325002",
-      "title": "Director, Brand Influence, Advocacy & AI Discovery",
-      "company": "Calendly",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8652325002",
-      "postedAt": "2026-07-27T17:30:39-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5193645007",
-      "title": "Senior Technical Project Manager, Engineering",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5193645007",
-      "postedAt": "2026-07-27T14:18:52-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8084473",
-      "title": "Senior Product Manager - Revenue Intelligence",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8084473",
-      "postedAt": "2026-07-27T10:52:23-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Product",
       "blurb": "Revenue intelligence platform for enterprise sales teams.",
       "earlyCareer": false
     }
