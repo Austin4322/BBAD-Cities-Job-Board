@@ -1,11 +1,43 @@
 {
-  "updatedAt": "2026-08-27T20:49:23.961Z",
-  "count": 38,
+  "updatedAt": "2026-08-28T21:16:57.653Z",
+  "count": 39,
   "newIds": [
-    "gh-stockx-8742251002",
-    "gh-fleetio-5207874007"
+    "gh-stockx-8750517002",
+    "gh-stockx-8750538002",
+    "gh-stockx-8577293002",
+    "gh-salesloft-8119953"
   ],
   "jobs": [
+    {
+      "id": "gh-stockx-8577293002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8577293002",
+      "postedAt": "2026-08-28T16:13:26-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX operations specialist role",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8127816",
+      "title": "Senior Business Systems Administrator",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8127816",
+      "postedAt": "2026-08-27T22:06:20-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft revenue intelligence platform needs Salesforce admin.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8742251002",
       "title": "Senior Tax Analyst, International Indirect Tax (VAT/GST/JCT)",
@@ -50,6 +82,36 @@
       "role": "Product",
       "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8750538002",
+      "title": "Category Manager - Sneakers",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002",
+      "postedAt": "2026-08-26T10:01:27-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Other",
+      "blurb": "StockX sneakers category management",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8750517002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750517002",
+      "postedAt": "2026-08-26T09:52:48-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Other",
+      "blurb": "StockX apparel category management",
+      "earlyCareer": true
     },
     {
       "id": "gh-salesloft-8003853",
@@ -127,21 +189,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-salesloft-8127816",
-      "title": "Salesforce Business Systems Administrator",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8127816",
-      "postedAt": "2026-08-21T15:18:00-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft revenue intelligence platform needs Salesforce admin.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-fleetio-5206783007",
       "title": "Senior Software Engineer, Fleet Intelligence",
       "company": "Fleetio",
@@ -185,21 +232,6 @@
       "role": "Operations",
       "blurb": "Fleet management software platform for organizations worldwide",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5216220007",
-      "title": "Senior Director, Brand Marketing",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5216220007",
-      "postedAt": "2026-08-19T13:49:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleet management software platform for transportation operations.",
-      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-7890512",
@@ -307,21 +339,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-calendly-8701083002",
-      "title": "Customer Success Manager II",
-      "company": "Calendly",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8701083002",
-      "postedAt": "2026-08-12T16:06:11-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-salesloft-7711111",
       "title": "Senior Director, Product Strategy & Operations",
       "company": "Salesloft",
@@ -395,6 +412,21 @@
       "role": "Engineering",
       "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8119953",
+      "title": "Salesforce Business Systems Administrator",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8119953",
+      "postedAt": "2026-08-10T14:26:50-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft Salesforce systems administrator",
+      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5188208007",
@@ -560,21 +592,6 @@
       "role": "Engineering",
       "blurb": "Fleetio fleet management software seeks engineering manager, payments.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8083565",
-      "title": "Sr. Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8083565",
-      "postedAt": "2026-07-29T10:19:09-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
     }
   ]
 }
