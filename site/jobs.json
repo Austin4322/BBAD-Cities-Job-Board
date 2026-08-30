@@ -1,9 +1,7 @@
 {
-  "updatedAt": "2026-08-29T15:21:34.753Z",
-  "count": 40,
-  "newIds": [
-    "gh-stockx-8750569002"
-  ],
+  "updatedAt": "2026-08-30T15:04:58.079Z",
+  "count": 38,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-stockx-8577293002",
@@ -574,36 +572,6 @@
       "role": "Engineering",
       "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5200093007",
-      "title": "Engineering Manager, Growth",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5200093007",
-      "postedAt": "2026-07-30T18:05:12-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management software seeks engineering manager, growth.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5200077007",
-      "title": "Engineering Manager, Payments",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5200077007",
-      "postedAt": "2026-07-30T17:52:52-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management software seeks engineering manager, payments.",
-      "earlyCareer": true
     }
   ]
 }
