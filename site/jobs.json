@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-08-30T15:04:58.079Z",
+  "updatedAt": "2026-08-31T17:43:32.826Z",
   "count": 38,
-  "newIds": [],
+  "newIds": [
+    "gh-stockx-8750534002"
+  ],
   "jobs": [
+    {
+      "id": "gh-calendly-8139892002",
+      "title": "Staff Product Manager, AI Scheduling ",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
+      "postedAt": "2026-08-30T11:50:54-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "Scheduling software relied on by millions of users.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-stockx-8577293002",
       "title": "Operations Specialist",
@@ -64,21 +81,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-calendly-8139892002",
-      "title": "Staff Product Manager, AI Scheduling ",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
-      "postedAt": "2026-08-27T02:07:25-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-stockx-8750569002",
       "title": "Seasonal Operations Specialist",
       "company": "StockX",
@@ -94,18 +96,18 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8750538002",
+      "id": "gh-stockx-8750534002",
       "title": "Category Manager - Sneakers",
       "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002",
-      "postedAt": "2026-08-26T10:01:27-04:00",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
+      "postedAt": "2026-08-26T10:01:24-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
-      "remote": true,
-      "role": "Other",
-      "blurb": "StockX sneakers category management",
+      "remote": false,
+      "role": "Product",
+      "blurb": "StockX resale marketplace Category Manager for Sneakers division.",
       "earlyCareer": true
     },
     {
