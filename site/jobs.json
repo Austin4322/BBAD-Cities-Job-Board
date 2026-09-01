@@ -1,10 +1,41 @@
 {
-  "updatedAt": "2026-08-31T17:43:32.826Z",
-  "count": 38,
+  "updatedAt": "2026-09-01T15:15:10.654Z",
+  "count": 40,
   "newIds": [
-    "gh-stockx-8750534002"
+    "gh-fleetio-4922101007",
+    "gh-stockx-8765185002"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-4922101007",
+      "title": "Outbound Sales Development Representative",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/4922101007",
+      "postedAt": "2026-09-01T09:19:37-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleet management software. Outbound sales development representative role.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8765185002",
+      "title": "Senior Transportation Analyst",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8765185002",
+      "postedAt": "2026-08-31T14:49:37-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Data",
+      "blurb": "Marketplace platform. Senior transportation analyst.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-calendly-8139892002",
       "title": "Staff Product Manager, AI Scheduling ",
