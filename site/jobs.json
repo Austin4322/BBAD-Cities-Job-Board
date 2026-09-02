@@ -1,10 +1,7 @@
 {
-  "updatedAt": "2026-09-01T15:15:10.654Z",
-  "count": 40,
-  "newIds": [
-    "gh-fleetio-4922101007",
-    "gh-stockx-8765185002"
-  ],
+  "updatedAt": "2026-09-02T14:45:14.552Z",
+  "count": 37,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-fleetio-4922101007",
@@ -277,21 +274,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-salesloft-7890512",
-      "title": "Manager, Security Engineering & Operations ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=7890512",
-      "postedAt": "2026-08-17T16:32:53-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5213856007",
       "title": "Software Engineer, Marketplace",
       "company": "Fleetio",
@@ -379,21 +361,6 @@
       "remote": true,
       "role": "Engineering",
       "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-7711111",
-      "title": "Senior Director, Product Strategy & Operations",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=7711111",
-      "postedAt": "2026-08-12T14:07:17-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
       "earlyCareer": false
     },
     {
@@ -529,21 +496,6 @@
       "remote": true,
       "role": "Growth & Marketing",
       "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-calendly-8685120002",
-      "title": "Senior Product Operations Manager",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8685120002",
-      "postedAt": "2026-08-05T16:18:54-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
     },
     {
