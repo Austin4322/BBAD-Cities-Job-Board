@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-09-03T14:45:37.549Z",
+  "updatedAt": "2026-09-04T14:35:40.158Z",
   "count": 35,
-  "newIds": [],
+  "newIds": [
+    "gh-fleetio-5228674007",
+    "gh-fleetio-5228724007"
+  ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5228724007",
+      "title": "Partner Enablement Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5228724007",
+      "postedAt": "2026-09-03T15:25:25-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management platform seeks partner enablement manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5228674007",
+      "title": "Partner Development Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5228674007",
+      "postedAt": "2026-09-03T15:24:19-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management platform seeks partner development manager.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8119953",
       "title": "Salesforce Business Systems Administrator",
@@ -497,36 +530,6 @@
       "role": "Design",
       "blurb": "Secondary marketplace for cultural goods and collectibles.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5184846007",
-      "title": "Account Executive, SMB",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5184846007",
-      "postedAt": "2026-08-04T15:12:52-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks SMB account executive.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5187750007",
-      "title": "Account Executive, Mid-Market",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5187750007",
-      "postedAt": "2026-08-04T15:11:26-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks mid-market account executive.",
-      "earlyCareer": true
     }
   ]
 }
