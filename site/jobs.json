@@ -1,11 +1,38 @@
 {
-  "updatedAt": "2026-09-04T14:35:40.158Z",
-  "count": 35,
-  "newIds": [
-    "gh-fleetio-5228674007",
-    "gh-fleetio-5228724007"
-  ],
+  "updatedAt": "2026-09-05T13:35:11.966Z",
+  "count": 34,
+  "newIds": [],
   "jobs": [
+    {
+      "id": "gh-salesloft-8123080",
+      "title": "Enterprise Account Director",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8123080",
+      "postedAt": "2026-09-04T17:41:05-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Revenue intelligence platform for enterprise sales teams.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8003853",
+      "title": "Commercial Account Manager",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
+      "postedAt": "2026-09-04T17:18:06-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Salesloft sales engagement platform; Commercial Account Manager role.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-fleetio-5228724007",
       "title": "Partner Enablement Manager",
@@ -232,21 +259,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-salesloft-8003853",
-      "title": "Commercial Account Manager",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
-      "postedAt": "2026-08-25T17:56:34-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Salesloft sales engagement platform; Commercial Account Manager role.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-stockx-8602952002",
       "title": "Business Development Manager, Trading Cards & Collectibles - StockX Live",
       "company": "StockX",
@@ -427,21 +439,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-salesloft-8123080",
-      "title": "Enterprise Account Director",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8123080",
-      "postedAt": "2026-08-12T13:00:07-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-salesloft-8120871",
       "title": "Senior Customer Success Manager ",
       "company": "Salesloft",
@@ -514,21 +511,6 @@
       "remote": true,
       "role": "Growth & Marketing",
       "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8647118002",
-      "title": "Creative Director",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8647118002",
-      "postedAt": "2026-08-05T12:59:11-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Design",
-      "blurb": "Secondary marketplace for cultural goods and collectibles.",
       "earlyCareer": false
     }
   ]
