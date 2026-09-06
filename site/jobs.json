@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T13:35:11.966Z",
-  "count": 34,
+  "updatedAt": "2026-09-06T13:50:10.838Z",
+  "count": 33,
   "newIds": [],
   "jobs": [
     {
@@ -497,21 +497,6 @@
       "role": "Engineering",
       "blurb": "Government modernization software engineering at startup",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8022101",
-      "title": "Senior Marketing Operations Manager",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8022101",
-      "postedAt": "2026-08-06T15:02:05-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
     }
   ]
 }
