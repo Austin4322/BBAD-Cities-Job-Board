@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-09-08T14:48:24.851Z",
-  "count": 33,
-  "newIds": [],
+  "updatedAt": "2026-09-09T14:50:29.034Z",
+  "count": 30,
+  "newIds": [
+    "gh-stockx-8420553002"
+  ],
   "jobs": [
+    {
+      "id": "gh-stockx-8577293002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8577293002",
+      "postedAt": "2026-09-09T09:49:11-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX operations specialist role",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5207874007",
+      "title": "Senior Manager, Marketing Operations",
+      "company": "Fleetio",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5207874007",
+      "postedAt": "2026-09-08T15:54:21-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "Fleetio Sr. Manager Marketing Operations for fleet software.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-salesloft-8123080",
       "title": "Enterprise Account Director",
@@ -79,21 +111,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5207874007",
-      "title": "Sr. Manager Marketing Operations",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5207874007",
-      "postedAt": "2026-09-03T10:11:34-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio Sr. Manager Marketing Operations for fleet software.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-4823689007",
       "title": "Software Engineer, Growth",
       "company": "Fleetio",
@@ -152,21 +169,6 @@
       "role": "Product",
       "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8577293002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8577293002",
-      "postedAt": "2026-08-28T16:13:26-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX operations specialist role",
-      "earlyCareer": true
     },
     {
       "id": "gh-salesloft-8127816",
@@ -274,6 +276,21 @@
       "earlyCareer": true
     },
     {
+      "id": "gh-stockx-8420553002",
+      "title": "Director, Category Growth (General Manager)",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8420553002",
+      "postedAt": "2026-08-25T12:28:13-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "StockX marketplace seeks director category growth general manager role.",
+      "earlyCareer": false
+    },
+    {
       "id": "gh-stockx-8400306002",
       "title": "Category Manager - StockX Live",
       "company": "StockX",
@@ -332,21 +349,6 @@
       "role": "Engineering",
       "blurb": "Fleet management software platform for organizations worldwide",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5211486007",
-      "title": "Associate Product Support Specialist (Remote - UK)",
-      "company": "Fleetio",
-      "location": "Remote - UK",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5211486007",
-      "postedAt": "2026-08-20T10:33:58-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleet management software platform for organizations worldwide",
-      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5213856007",
@@ -452,51 +454,6 @@
       "role": "Sales",
       "blurb": "Revenue intelligence platform for enterprise sales teams.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5188208007",
-      "title": "Director of Engineering, Leverage",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5188208007",
-      "postedAt": "2026-08-10T09:32:46-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management software seeks director of engineering.",
-      "earlyCareer": false
-    },
-    {
-      "id": "ts-798063968",
-      "title": "Bioinformatician/Variant Curation Scientist - NGS",
-      "company": "Phytest",
-      "cityId": "atl",
-      "location": "Atlanta, GA",
-      "url": "http://www.indeed.com/job/bioinformaticianvariant-curation-scientist-ngs-fd1064e9f4a6bbe3",
-      "postedAt": "2026-08-10",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "From $100,000 a year",
-      "role": "Data",
-      "blurb": "Phytest provides clinical genomics laboratory and variant analysis services.",
-      "earlyCareer": true
-    },
-    {
-      "id": "ts-798013985",
-      "title": "Software Engineer",
-      "company": "Radiant Infotech",
-      "cityId": "dmv",
-      "location": "Bethesda, MD",
-      "url": "http://www.indeed.com/job/software-engineer-3c1be19c6580ca37",
-      "postedAt": "2026-08-10",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "$124,179.88 - $187,506.95 a year",
-      "role": "Engineering",
-      "blurb": "Government modernization software engineering at startup",
-      "earlyCareer": true
     }
   ]
 }
