@@ -1,13 +1,58 @@
 {
-  "updatedAt": "2026-09-11T14:39:18.804Z",
-  "count": 33,
+  "updatedAt": "2026-09-12T13:47:12.896Z",
+  "count": 32,
   "newIds": [
-    "gh-salesloft-8071616",
-    "gh-salesloft-8193343",
-    "gh-salesloft-8148317",
-    "gh-salesloft-8084473"
+    "gh-fleetio-5236170007",
+    "gh-fleetio-5236015007",
+    "gh-stockx-8750534002",
+    "gh-stockx-8742251002"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5236170007",
+      "title": "Senior Applied Data Scientist, Fleet Intelligence",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236170007",
+      "postedAt": "2026-09-11T17:20:12-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Data",
+      "blurb": "Fleetio fleet management software, senior data scientist role.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5236015007",
+      "title": "Senior Field Marketing Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236015007",
+      "postedAt": "2026-09-11T16:16:36-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "Fleetio fleet management software, senior field marketing manager.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-calendly-8139892002",
+      "title": "Staff Product Manager, Scheduling (core product)",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
+      "postedAt": "2026-09-11T16:00:58-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "Scheduling software relied on by millions of users.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-stockx-8789885002",
       "title": "Operations Specialist",
@@ -52,21 +97,6 @@
       "role": "Engineering",
       "blurb": "Fleetio fleet management software seeks software engineer.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8084473",
-      "title": "Senior Product Manager - Revenue Intelligence",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8084473",
-      "postedAt": "2026-09-04T20:08:22-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Product",
-      "blurb": "Salesloft seeks senior product manager for revenue intelligence.",
-      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-8148317",
@@ -234,21 +264,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-calendly-8139892002",
-      "title": "Staff Product Manager, AI Scheduling ",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
-      "postedAt": "2026-08-30T11:50:54-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-salesloft-8127816",
       "title": "Senior Business Systems Administrator",
       "company": "Salesloft",
@@ -264,18 +279,18 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8742253002",
+      "id": "gh-stockx-8742251002",
       "title": "Senior Tax Analyst, International Indirect Tax (VAT/GST/JCT)",
       "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8742253002",
-      "postedAt": "2026-08-27T13:29:55-04:00",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8742251002",
+      "postedAt": "2026-08-27T13:28:40-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
-      "remote": true,
-      "role": "Data",
-      "blurb": "StockX marketplace seeks senior tax analyst for international indirect tax.",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX sneaker marketplace, senior tax analyst VAT/GST/JCT.",
       "earlyCareer": false
     },
     {
@@ -309,18 +324,18 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8750538002",
+      "id": "gh-stockx-8750534002",
       "title": "Category Manager - Sneakers",
       "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002",
-      "postedAt": "2026-08-26T10:01:27-04:00",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
+      "postedAt": "2026-08-26T10:01:24-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
-      "remote": true,
+      "remote": false,
       "role": "Operations",
-      "blurb": "StockX marketplace seeks sneaker category manager.",
+      "blurb": "StockX sneaker marketplace, category manager role.",
       "earlyCareer": true
     },
     {
@@ -471,36 +486,6 @@
       "remote": true,
       "role": "Engineering",
       "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8433854002",
-      "title": "Category Manager - Trading Cards",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8433854002",
-      "postedAt": "2026-08-12T14:05:42-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking trading cards category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8120871",
-      "title": "Senior Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8120871",
-      "postedAt": "2026-08-12T11:12:34-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
       "earlyCareer": false
     }
   ]
