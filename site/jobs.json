@@ -1,7 +1,9 @@
 {
-  "updatedAt": "2026-09-13T14:43:18.052Z",
-  "count": 32,
-  "newIds": [],
+  "updatedAt": "2026-09-14T16:39:18.938Z",
+  "count": 30,
+  "newIds": [
+    "gh-stockx-8750538002"
+  ],
   "jobs": [
     {
       "id": "gh-fleetio-5236170007",
@@ -319,18 +321,18 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8750534002",
+      "id": "gh-stockx-8750538002",
       "title": "Category Manager - Sneakers",
       "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
-      "postedAt": "2026-08-26T10:01:24-04:00",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002",
+      "postedAt": "2026-08-26T10:01:27-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX sneaker marketplace, category manager role.",
+      "remote": true,
+      "role": "Other",
+      "blurb": "StockX sneaker category management and curation",
       "earlyCareer": true
     },
     {
@@ -452,36 +454,6 @@
       "role": "Data",
       "blurb": "Enterprise revenue intelligence and sales enablement platform.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-calendly-8464846002",
-      "title": "Senior Full Stack Engineer, AI Scheduling",
-      "company": "Calendly",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8464846002",
-      "postedAt": "2026-08-14T12:52:04-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5178399007",
-      "title": "Senior Software Engineer, Growth",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5178399007",
-      "postedAt": "2026-08-14T11:52:12-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": false
     }
   ]
 }
