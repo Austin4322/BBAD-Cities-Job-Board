@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-09-16T15:11:48.014Z",
-  "count": 35,
-  "newIds": [
-    "gh-stockx-8750538002"
-  ],
+  "updatedAt": "2026-09-17T15:20:58.439Z",
+  "count": 34,
+  "newIds": [],
   "jobs": [
+    {
+      "id": "gh-calendly-8139892002",
+      "title": "Staff Product Manager, Scheduling (core product)",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
+      "postedAt": "2026-09-16T13:03:26-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "Scheduling software relied on by millions of users.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-stockx-8789885002",
       "title": "Operations Specialist",
@@ -168,21 +181,6 @@
       "remote": true,
       "role": "Growth & Marketing",
       "blurb": "Fleetio fleet management software, senior field marketing manager.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-calendly-8139892002",
-      "title": "Staff Product Manager, Scheduling (core product)",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
-      "postedAt": "2026-09-11T16:00:58-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Scheduling software relied on by millions of users.",
       "earlyCareer": false
     },
     {
@@ -514,21 +512,6 @@
       "role": "Engineering",
       "blurb": "Fleet management software platform for organizations worldwide",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8114019",
-      "title": "Financial Analyst, R&D",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8114019",
-      "postedAt": "2026-08-17T11:33:41-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Data",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
-      "earlyCareer": true
     }
   ]
 }
