@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-09-17T15:20:58.439Z",
-  "count": 34,
-  "newIds": [],
+  "updatedAt": "2026-09-18T14:40:39.856Z",
+  "count": 36,
+  "newIds": [
+    "gh-fleetio-5192196007",
+    "gh-fleetio-5241632007",
+    "gh-fleetio-5241221007",
+    "gh-salesloft-7950576"
+  ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5241632007",
+      "title": "Marketing Web Developer",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241632007",
+      "postedAt": "2026-09-18T08:43:16-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet management platform seeks marketing web developer.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5228724007",
+      "title": "Partner Enablement Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5228724007",
+      "postedAt": "2026-09-17T16:50:02-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management platform seeks partner enablement manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5241221007",
+      "title": "Staff Product Manager, Connected Ecosystem",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241221007",
+      "postedAt": "2026-09-17T14:02:42-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Product",
+      "blurb": "Fleetio fleet management platform seeks staff product manager for ecosystem.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5192196007",
+      "title": "Director, Product Marketing, GTM Strategy",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5192196007",
+      "postedAt": "2026-09-17T13:36:57-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "Fleetio fleet management platform seeks director of product marketing GTM.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-calendly-8139892002",
       "title": "Staff Product Manager, Scheduling (core product)",
@@ -16,6 +81,21 @@
       "remote": false,
       "role": "Product",
       "blurb": "Scheduling software relied on by millions of users.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-7950576",
+      "title": "Principal Software Engineer, AI",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=7950576",
+      "postedAt": "2026-09-15T09:37:59-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Salesloft sales software seeks principal software engineer for AI.",
       "earlyCareer": false
     },
     {
@@ -274,21 +354,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5228724007",
-      "title": "Partner Enablement Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5228724007",
-      "postedAt": "2026-09-03T15:25:25-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management platform seeks partner enablement manager.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-fleetio-5228674007",
       "title": "Partner Development Manager",
       "company": "Fleetio",
@@ -406,36 +471,6 @@
       "remote": false,
       "role": "Operations",
       "blurb": "StockX marketplace seeks seasonal operations specialist.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8750538002",
-      "title": "Category Manager - Sneakers",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002",
-      "postedAt": "2026-08-26T10:01:27-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Product",
-      "blurb": "StockX: sneaker marketplace, category manager role",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8750517002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750517002",
-      "postedAt": "2026-08-26T09:52:48-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Other",
-      "blurb": "StockX apparel category management",
       "earlyCareer": true
     },
     {
