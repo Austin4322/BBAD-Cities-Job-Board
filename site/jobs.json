@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-19T14:01:00.842Z",
-  "count": 42,
-  "newIds": [
-    "gh-stockx-8750534002",
-    "gh-stockx-8816798002",
-    "gh-stockx-8816805002",
-    "gh-fleetio-5187750007",
-    "gh-fleetio-5242159007",
-    "gh-fleetio-5242437007"
-  ],
+  "updatedAt": "2026-09-20T14:21:52.202Z",
+  "count": 40,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-fleetio-5187750007",
@@ -506,21 +499,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-stockx-8742251002",
-      "title": "Senior Tax Analyst, International Indirect Tax (VAT/GST/JCT)",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8742251002",
-      "postedAt": "2026-08-27T13:28:40-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX sneaker marketplace, senior tax analyst VAT/GST/JCT.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5216052007",
       "title": "Outbound Sales Development Manager",
       "company": "Fleetio",
@@ -624,21 +602,6 @@
       "role": "Operations",
       "blurb": "StockX marketplace seeking category manager.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5217902007",
-      "title": "Senior Solutions Engineer",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5217902007",
-      "postedAt": "2026-08-20T16:16:13-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet management software platform for organizations worldwide",
-      "earlyCareer": false
     }
   ]
 }
