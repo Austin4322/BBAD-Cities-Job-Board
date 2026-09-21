@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-20T14:21:52.202Z",
-  "count": 40,
-  "newIds": [],
+  "updatedAt": "2026-09-21T16:39:43.259Z",
+  "count": 41,
+  "newIds": [
+    "gh-salesloft-8083565",
+    "gh-stockx-8742253002"
+  ],
   "jobs": [
+    {
+      "id": "gh-calendly-8139892002",
+      "title": "Staff Product Manager, Scheduling (core product)",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
+      "postedAt": "2026-09-20T12:35:46-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "Scheduling software relied on by millions of users.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5187750007",
       "title": "Account Executive, Mid-Market",
@@ -64,21 +82,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-calendly-8139892002",
-      "title": "Staff Product Manager, Scheduling (core product)",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
-      "postedAt": "2026-09-18T10:41:45-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5241632007",
       "title": "Marketing Web Developer",
       "company": "Fleetio",
@@ -92,6 +95,21 @@
       "role": "Engineering",
       "blurb": "Fleetio fleet management platform seeks marketing web developer.",
       "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8083565",
+      "title": "Sr. Customer Success Manager ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8083565",
+      "postedAt": "2026-09-17T17:08:29-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Salesloft enterprise revenue platform seeking senior customer success manager.",
+      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5228724007",
@@ -235,21 +253,6 @@
       "location": "United States, Remote",
       "url": "https://www.salesloft.com/company/careers?gh_jid=8120871",
       "postedAt": "2026-09-14T22:28:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Salesloft, revenue software. Customer success manager.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8092662",
-      "title": "Sr. Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8092662",
-      "postedAt": "2026-09-14T22:26:14-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
@@ -496,6 +499,21 @@
       "remote": false,
       "role": "Data",
       "blurb": "Marketplace platform. Senior transportation analyst.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8742253002",
+      "title": "Senior Tax Analyst, International Indirect Tax (VAT/GST/JCT)",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8742253002",
+      "postedAt": "2026-08-27T13:29:55-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeking senior tax analyst for international indirect tax.",
       "earlyCareer": false
     },
     {
