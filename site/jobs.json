@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-09-24T15:31:35.139Z",
-  "count": 50,
-  "newIds": [],
+  "updatedAt": "2026-09-25T15:35:33.472Z",
+  "count": 45,
+  "newIds": [
+    "gh-fleetio-5248485007"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8201024",
+      "title": "People Partner ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
+      "postedAt": "2026-09-25T10:19:14-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue software. People partner/HR role.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5248485007",
+      "title": "Senior Corporate Paralegal",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5248485007",
+      "postedAt": "2026-09-24T14:59:22-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Fleetio fleet management software, corporate legal support.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-stockx-8789885002",
       "title": "Operations Specialist",
@@ -424,21 +456,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-salesloft-8201024",
-      "title": "People Partner ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
-      "postedAt": "2026-09-14T22:19:57-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue software. People partner/HR role.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-salesloft-8201010",
       "title": "People Operations Generalist ",
       "company": "Salesloft",
@@ -662,96 +679,6 @@
       "role": "Sales",
       "blurb": "Fleet management software platform for transportation operations.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8750569002",
-      "title": "Seasonal Operations Specialist",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750569002",
-      "postedAt": "2026-08-26T10:11:44-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeks seasonal operations specialist.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8750534002",
-      "title": "Category Manager - Sneakers",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
-      "postedAt": "2026-08-26T10:01:24-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Other",
-      "blurb": "StockX seeks category manager for sneaker inventory and curation",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8602952002",
-      "title": "Business Development Manager, Trading Cards & Collectibles - StockX Live",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8602952002",
-      "postedAt": "2026-08-25T13:07:42-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Sales",
-      "blurb": "StockX business development for trading cards marketplace.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8420553002",
-      "title": "Director, Category Growth (General Manager)",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8420553002",
-      "postedAt": "2026-08-25T12:28:13-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "StockX marketplace seeks director category growth general manager role.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8400306002",
-      "title": "Category Manager - StockX Live",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400306002",
-      "postedAt": "2026-08-25T12:12:03-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking StockX Live category manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8414215002",
-      "title": "Category Manager",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414215002",
-      "postedAt": "2026-08-25T12:10:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking category manager.",
-      "earlyCareer": true
     }
   ]
 }
