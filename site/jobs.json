@@ -1,10 +1,56 @@
 {
-  "updatedAt": "2026-09-25T15:35:33.472Z",
+  "updatedAt": "2026-09-26T14:46:39.022Z",
   "count": 45,
   "newIds": [
-    "gh-fleetio-5248485007"
+    "gh-fleetio-5249570007",
+    "gh-fleetio-5193645007"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5249570007",
+      "title": "Senior Revenue Operations Analyst",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5249570007",
+      "postedAt": "2026-09-25T16:16:46-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Fleetio fleet management software seeks revenue operations analyst.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8789885002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
+      "postedAt": "2026-09-25T15:38:54-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeks operations specialist.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5193645007",
+      "title": "Senior Technical Project Manager, Engineering",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5193645007",
+      "postedAt": "2026-09-25T15:21:19-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Fleetio fleet management software seeks technical project manager.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-salesloft-8201024",
       "title": "People Partner ",
@@ -34,21 +80,6 @@
       "role": "Operations",
       "blurb": "Fleetio fleet management software, corporate legal support.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8789885002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
-      "postedAt": "2026-09-24T11:21:08-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeks operations specialist.",
-      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5228674007",
@@ -306,21 +337,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-salesloft-8083565",
-      "title": "Sr. Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8083565",
-      "postedAt": "2026-09-17T17:08:29-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Salesloft enterprise revenue platform seeking senior customer success manager.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5228724007",
       "title": "Partner Enablement Manager",
       "company": "Fleetio",
@@ -544,21 +560,6 @@
       "role": "Engineering",
       "blurb": "Fleetio fleet management software seeks software engineer.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8148317",
-      "title": "Senior Director, Revenue Enablement",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8148317",
-      "postedAt": "2026-09-04T19:54:55-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft seeks senior director of revenue enablement.",
-      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-8071616",
