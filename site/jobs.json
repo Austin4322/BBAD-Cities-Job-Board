@@ -1,10 +1,7 @@
 {
-  "updatedAt": "2026-09-26T14:46:39.022Z",
-  "count": 45,
-  "newIds": [
-    "gh-fleetio-5249570007",
-    "gh-fleetio-5193645007"
-  ],
+  "updatedAt": "2026-09-27T15:24:43.913Z",
+  "count": 43,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-fleetio-5249570007",
@@ -649,36 +646,6 @@
       "remote": false,
       "role": "Data",
       "blurb": "Marketplace platform. Senior transportation analyst.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8742253002",
-      "title": "Senior Tax Analyst, International Indirect Tax (VAT/GST/JCT)",
-      "company": "StockX",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8742253002",
-      "postedAt": "2026-08-27T13:29:55-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeking senior tax analyst for international indirect tax.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5216052007",
-      "title": "Outbound Sales Development Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5216052007",
-      "postedAt": "2026-08-27T13:02:27-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleet management software platform for transportation operations.",
       "earlyCareer": false
     }
   ]
