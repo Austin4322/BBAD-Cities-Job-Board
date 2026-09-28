@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-27T15:24:43.913Z",
+  "updatedAt": "2026-09-28T18:17:04.218Z",
   "count": 43,
   "newIds": [],
   "jobs": [
+    {
+      "id": "gh-stockx-8789885002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
+      "postedAt": "2026-09-28T14:12:47-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeks operations specialist.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-fleetio-5249570007",
       "title": "Senior Revenue Operations Analyst",
@@ -17,21 +32,6 @@
       "role": "Operations",
       "blurb": "Fleetio fleet management software seeks revenue operations analyst.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8789885002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
-      "postedAt": "2026-09-25T15:38:54-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeks operations specialist.",
-      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5193645007",
