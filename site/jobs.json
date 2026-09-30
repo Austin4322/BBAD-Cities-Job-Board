@@ -1,15 +1,71 @@
 {
-  "updatedAt": "2026-09-29T16:39:58.043Z",
-  "count": 48,
+  "updatedAt": "2026-09-30T16:31:53.762Z",
+  "count": 50,
   "newIds": [
-    "gh-salesloft-8092662",
-    "gh-fleetio-5250796007",
-    "gh-fleetio-5249727007",
-    "gh-stockx-8852991002",
-    "ts-858040962",
-    "ts-858569527"
+    "gh-fleetio-5184846007",
+    "gh-stockx-8857520002"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5184846007",
+      "title": "Account Executive, SMB",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5184846007",
+      "postedAt": "2026-09-30T11:51:11-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management software, account executive for SMB segment.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5187750007",
+      "title": "Account Executive, Mid-Market",
+      "company": "Fleetio",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5187750007",
+      "postedAt": "2026-09-30T11:50:59-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management software seeks account executive for mid-market",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8201024",
+      "title": "People Partner ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
+      "postedAt": "2026-09-30T11:40:02-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue software. People partner/HR role.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8857520002",
+      "title": "Growth Specialist: E-Commerce",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8857520002",
+      "postedAt": "2026-09-30T10:50:13-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Growth & Marketing",
+      "blurb": "StockX marketplace platform, growth specialist for e-commerce channel.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8789885002",
       "title": "Operations Specialist",
@@ -128,21 +184,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Fleetio fleet management software seeks technical project manager.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8201024",
-      "title": "People Partner ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
-      "postedAt": "2026-09-25T10:19:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue software. People partner/HR role.",
       "earlyCareer": false
     },
     {
@@ -368,21 +409,6 @@
       "salary": "$75k - $95k per year",
       "role": "Operations",
       "blurb": "HR generalist at advanced separation technology company.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5187750007",
-      "title": "Account Executive, Mid-Market",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5187750007",
-      "postedAt": "2026-09-18T16:32:22-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks account executive for mid-market",
       "earlyCareer": true
     },
     {
