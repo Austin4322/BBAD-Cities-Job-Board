@@ -1,11 +1,87 @@
 {
-  "updatedAt": "2026-09-30T16:31:53.762Z",
+  "updatedAt": "2026-10-01T17:10:06.229Z",
   "count": 50,
   "newIds": [
-    "gh-fleetio-5184846007",
-    "gh-stockx-8857520002"
+    "gh-fleetio-5253664007",
+    "ts-860688771",
+    "ts-861696249"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5236170007",
+      "title": "Senior Applied Data Scientist, Fleet Intelligence",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236170007",
+      "postedAt": "2026-10-01T08:12:52-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Data",
+      "blurb": "Fleetio fleet management software, senior data scientist role.",
+      "earlyCareer": false
+    },
+    {
+      "id": "ts-860688771",
+      "title": "Sr. Channel Partnerships Manager - NYC or ATL",
+      "company": "Locality",
+      "cityId": "atl",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4463602565/",
+      "postedAt": "2026-10-01",
+      "remote": false,
+      "source": "TheirStack",
+      "salary": "",
+      "role": "Sales",
+      "blurb": "Locality software seeks senior channel partnerships manager.",
+      "earlyCareer": false
+    },
+    {
+      "id": "ts-861696249",
+      "title": "L&D Specialist - Sales Excellence",
+      "company": "Vertage",
+      "cityId": "atl",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4472579075/",
+      "postedAt": "2026-10-01",
+      "remote": false,
+      "source": "TheirStack",
+      "salary": "",
+      "role": "Operations",
+      "blurb": "Vertage builds sales capability through learning and development programs.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5253664007",
+      "title": "Senior Software Engineer, Marketplace",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5253664007",
+      "postedAt": "2026-09-30T18:42:52-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet operations platform seeks software engineer.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8201024",
+      "title": "People Partner ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
+      "postedAt": "2026-09-30T13:00:32-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue software. People partner/HR role.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5184846007",
       "title": "Account Executive, SMB",
@@ -35,21 +111,6 @@
       "role": "Sales",
       "blurb": "Fleetio fleet management software seeks account executive for mid-market",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8201024",
-      "title": "People Partner ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
-      "postedAt": "2026-09-30T11:40:02-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue software. People partner/HR role.",
-      "earlyCareer": false
     },
     {
       "id": "gh-stockx-8857520002",
@@ -169,21 +230,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Fleetio fleet management software seeks revenue operations analyst.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5193645007",
-      "title": "Senior Technical Project Manager, Engineering",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5193645007",
-      "postedAt": "2026-09-25T15:21:19-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio fleet management software seeks technical project manager.",
       "earlyCareer": false
     },
     {
@@ -442,21 +488,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5241221007",
-      "title": "Staff Product Manager, Connected Ecosystem",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241221007",
-      "postedAt": "2026-09-17T14:02:42-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Product",
-      "blurb": "Fleetio fleet management platform seeks staff product manager for ecosystem.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5192196007",
       "title": "Director, Product Marketing, GTM Strategy",
       "company": "Fleetio",
@@ -622,21 +653,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5236170007",
-      "title": "Senior Applied Data Scientist, Fleet Intelligence",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236170007",
-      "postedAt": "2026-09-11T17:20:12-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Data",
-      "blurb": "Fleetio fleet management software, senior data scientist role.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-salesloft-8193343",
       "title": "Senior Commercial Counsel ",
       "company": "Salesloft",
@@ -739,21 +755,6 @@
       "remote": true,
       "role": "Growth & Marketing",
       "blurb": "Fleetio fleet management software seeks senior director brand marketing.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8765185002",
-      "title": "Senior Transportation Analyst",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8765185002",
-      "postedAt": "2026-08-31T14:49:37-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Data",
-      "blurb": "Marketplace platform. Senior transportation analyst.",
       "earlyCareer": false
     }
   ]
