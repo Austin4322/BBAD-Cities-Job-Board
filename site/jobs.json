@@ -1,12 +1,25 @@
 {
-  "updatedAt": "2026-10-01T17:10:06.229Z",
+  "updatedAt": "2026-10-02T16:23:21.808Z",
   "count": 50,
   "newIds": [
-    "gh-fleetio-5253664007",
-    "ts-860688771",
-    "ts-861696249"
+    "gh-fleetio-5254640007"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5254640007",
+      "title": "Regional Sales Manager, Mid-Market",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5254640007",
+      "postedAt": "2026-10-02T07:27:23-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management software seeks regional sales manager.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5236170007",
       "title": "Senior Applied Data Scientist, Fleet Intelligence",
@@ -560,21 +573,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Salesloft Salesforce systems administrator",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8106373",
-      "title": "Financial Analyst ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8106373",
-      "postedAt": "2026-09-15T09:18:48-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Data",
-      "blurb": "Enterprise revenue intelligence and sales enablement platform.",
       "earlyCareer": true
     },
     {
