@@ -1,10 +1,40 @@
 {
-  "updatedAt": "2026-10-02T16:23:21.808Z",
-  "count": 50,
+  "updatedAt": "2026-10-03T14:58:05.206Z",
+  "count": 47,
   "newIds": [
-    "gh-fleetio-5254640007"
+    "gh-fleetio-5217902007"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5217902007",
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5217902007",
+      "postedAt": "2026-10-02T17:55:06-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio forward-deployed engineer for fleet management software",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8201024",
+      "title": "People Partner ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
+      "postedAt": "2026-10-02T14:08:24-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue software. People partner/HR role.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5254640007",
       "title": "Regional Sales Manager, Mid-Market",
@@ -78,21 +108,6 @@
       "remote": true,
       "role": "Engineering",
       "blurb": "Fleetio fleet operations platform seeks software engineer.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8201024",
-      "title": "People Partner ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
-      "postedAt": "2026-09-30T13:00:32-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue software. People partner/HR role.",
       "earlyCareer": false
     },
     {
@@ -198,21 +213,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Fleetio, fleet management software. GTM systems admin.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5249727007",
-      "title": "Senior Salesforce Administrator",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5249727007",
-      "postedAt": "2026-09-28T16:09:12-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio, fleet management software. Salesforce administrator.",
       "earlyCareer": false
     },
     {
@@ -651,21 +651,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-salesloft-8193343",
-      "title": "Senior Commercial Counsel ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8193343",
-      "postedAt": "2026-09-10T18:00:33-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft seeks senior commercial counsel for legal/contracts.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5213856007",
       "title": "Associate Software Engineer, Marketplace",
       "company": "Fleetio",
@@ -724,36 +709,6 @@
       "role": "Sales",
       "blurb": "Salesloft sales engagement platform; Commercial Account Manager role.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-4823689007",
-      "title": "Software Engineer, Growth",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/4823689007",
-      "postedAt": "2026-09-02T16:05:42-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleet operations management software platform for organizations.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5216220007",
-      "title": "Senior Director, Brand Marketing",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5216220007",
-      "postedAt": "2026-09-02T13:26:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management software seeks senior director brand marketing.",
-      "earlyCareer": false
     }
   ]
 }
