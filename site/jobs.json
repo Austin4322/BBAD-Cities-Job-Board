@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T15:31:12.939Z",
-  "count": 47,
+  "updatedAt": "2026-10-05T19:25:04.030Z",
+  "count": 44,
   "newIds": [],
   "jobs": [
     {
@@ -661,51 +661,6 @@
       "remote": true,
       "role": "Engineering",
       "blurb": "Fleetio fleet management software seeks software engineer.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8071616",
-      "title": "Senior Commercial Account Manager",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8071616",
-      "postedAt": "2026-09-04T19:35:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Salesloft sales engagement platform seeks senior commercial account manager.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8123080",
-      "title": "Enterprise Account Director",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8123080",
-      "postedAt": "2026-09-04T17:41:05-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Revenue intelligence platform for enterprise sales teams.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8003853",
-      "title": "Commercial Account Manager",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
-      "postedAt": "2026-09-04T17:18:06-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Salesloft sales engagement platform; Commercial Account Manager role.",
       "earlyCareer": true
     }
   ]
