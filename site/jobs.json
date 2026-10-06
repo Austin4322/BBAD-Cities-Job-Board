@@ -1,8 +1,71 @@
 {
-  "updatedAt": "2026-10-05T19:25:04.030Z",
-  "count": 44,
-  "newIds": [],
+  "updatedAt": "2026-10-06T16:58:23.795Z",
+  "count": 42,
+  "newIds": [
+    "gh-fleetio-5257374007",
+    "gh-fleetio-5257520007"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8092662",
+      "title": "Sr. Customer Success Manager ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8092662",
+      "postedAt": "2026-10-06T10:18:36-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5257520007",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5257520007",
+      "postedAt": "2026-10-05T18:20:07-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet management software, senior reliability engineer.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8201024",
+      "title": "People Partner ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
+      "postedAt": "2026-10-05T16:36:23-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue software. People partner/HR role.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5257374007",
+      "title": "Senior Lifecycle Marketing Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5257374007",
+      "postedAt": "2026-10-05T16:28:14-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "Fleetio fleet management software, lifecycle marketing leader.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5217902007",
       "title": "Senior Forward Deployed Engineer",
@@ -17,21 +80,6 @@
       "role": "Engineering",
       "blurb": "Fleetio forward-deployed engineer for fleet management software",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8201024",
-      "title": "People Partner ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8201024",
-      "postedAt": "2026-10-02T14:08:24-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue software. People partner/HR role.",
-      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5254640007",
@@ -289,21 +337,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-calendly-8139892002",
-      "title": "Staff Product Manager, Scheduling ",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8139892002",
-      "postedAt": "2026-09-22T16:17:02-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "Scheduling software relied on by millions of users.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5242159007",
       "title": "Manager, Revenue Operations",
       "company": "Fleetio",
@@ -469,21 +502,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5241632007",
-      "title": "Marketing Web Developer",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241632007",
-      "postedAt": "2026-09-18T08:43:16-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management platform seeks marketing web developer.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-fleetio-5228724007",
       "title": "Partner Enablement Manager",
       "company": "Fleetio",
@@ -529,21 +547,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8816798002",
-      "title": "Growth Manager: Social, Programmatic & Creative",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8816798002",
-      "postedAt": "2026-09-17T11:33:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Growth & Marketing",
-      "blurb": "StockX seeks growth manager for social, programmatic and creative",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-salesloft-7950576",
       "title": "Principal Software Engineer, AI",
       "company": "Salesloft",
@@ -572,36 +575,6 @@
       "role": "Operations",
       "blurb": "Salesloft Salesforce systems administrator",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8120871",
-      "title": "Senior Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8120871",
-      "postedAt": "2026-09-14T22:28:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Salesloft, revenue software. Customer success manager.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8092662",
-      "title": "Sr. Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8092662",
-      "postedAt": "2026-09-14T22:26:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
-      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-8201010",
