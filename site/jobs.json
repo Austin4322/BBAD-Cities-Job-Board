@@ -1,8 +1,72 @@
 {
-  "updatedAt": "2026-10-07T17:33:54.234Z",
-  "count": 42,
-  "newIds": [],
+  "updatedAt": "2026-10-08T17:37:57.494Z",
+  "count": 45,
+  "newIds": [
+    "ts-872847445",
+    "ts-874038971",
+    "ts-874062665"
+  ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5257520007",
+      "title": "Senior Platform Engineer",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5257520007",
+      "postedAt": "2026-10-08T09:34:05-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet management software, senior reliability engineer.",
+      "earlyCareer": false
+    },
+    {
+      "id": "ts-872847445",
+      "title": "Account Executive (Enterprise)",
+      "company": "3C APAC",
+      "cityId": "atl",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4474804238/",
+      "postedAt": "2026-10-08",
+      "remote": false,
+      "source": "TheirStack",
+      "salary": "",
+      "role": "Sales",
+      "blurb": "3C Software finance/operations, enterprise account executive.",
+      "earlyCareer": true
+    },
+    {
+      "id": "ts-874038971",
+      "title": "Manager, GTM Systems (RevOps)",
+      "company": "FinQuery",
+      "cityId": "atl",
+      "location": "Atlanta, GA",
+      "url": "https://jobs.lever.co/finquery/04b13475-b5f8-4557-8364-3bde4eb27bfe",
+      "postedAt": "2026-10-08",
+      "remote": false,
+      "source": "TheirStack",
+      "salary": "$135k - $150k per year",
+      "role": "Operations",
+      "blurb": "FinQuery accounting automation, GTM systems/RevOps manager.",
+      "earlyCareer": true
+    },
+    {
+      "id": "ts-874062665",
+      "title": "Medical Engineer",
+      "company": "DEO.care",
+      "cityId": "det",
+      "location": "Ann Arbor, MI",
+      "url": "https://deo.breezy.hr/p/ab1be16aaae201-medical-engineer",
+      "postedAt": "2026-10-08",
+      "remote": false,
+      "source": "TheirStack",
+      "salary": "",
+      "role": "Engineering",
+      "blurb": "Medical engineer improving operating room processes at healthcare startup.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8789885002",
       "title": "Operations Specialist",
@@ -31,21 +95,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5257520007",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5257520007",
-      "postedAt": "2026-10-05T18:20:07-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management software, senior reliability engineer.",
       "earlyCareer": false
     },
     {
