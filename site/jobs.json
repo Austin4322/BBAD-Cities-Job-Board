@@ -1,12 +1,40 @@
 {
-  "updatedAt": "2026-10-08T17:37:57.494Z",
-  "count": 45,
+  "updatedAt": "2026-10-09T17:13:12.077Z",
+  "count": 46,
   "newIds": [
-    "ts-872847445",
-    "ts-874038971",
-    "ts-874062665"
+    "gh-stockx-8750569002"
   ],
   "jobs": [
+    {
+      "id": "gh-stockx-8750569002",
+      "title": "Seasonal Operations Specialist",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750569002",
+      "postedAt": "2026-10-09T11:51:57-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX, resale marketplace. Seasonal operations specialist.",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5254640007",
+      "title": "Regional Sales Manager, Mid-Market",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5254640007",
+      "postedAt": "2026-10-08T13:57:52-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "Fleetio fleet management software seeks regional sales manager.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5257520007",
       "title": "Senior Platform Engineer",
@@ -141,21 +169,6 @@
       "role": "Engineering",
       "blurb": "Fleetio forward-deployed engineer for fleet management software",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5254640007",
-      "title": "Regional Sales Manager, Mid-Market",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5254640007",
-      "postedAt": "2026-10-02T07:27:23-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks regional sales manager.",
-      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5236170007",
