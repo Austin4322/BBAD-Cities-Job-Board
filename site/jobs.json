@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-10-09T17:13:12.077Z",
-  "count": 46,
+  "updatedAt": "2026-10-10T15:58:01.518Z",
+  "count": 53,
   "newIds": [
-    "gh-stockx-8750569002"
+    "gh-calendly-8817389002",
+    "gh-calendly-8846049002",
+    "gh-calendly-8790919002",
+    "gh-calendly-8788325002",
+    "gh-calendly-8860525002",
+    "gh-salesloft-7991573",
+    "gh-stockx-8878929002",
+    "gh-stockx-8750650002"
   ],
   "jobs": [
+    {
+      "id": "gh-salesloft-7991573",
+      "title": "Senior Commercial Account Manager",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=7991573",
+      "postedAt": "2026-10-09T20:08:14-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": false
+    },
     {
       "id": "gh-stockx-8750569002",
       "title": "Seasonal Operations Specialist",
@@ -19,6 +41,21 @@
       "role": "Operations",
       "blurb": "StockX, resale marketplace. Seasonal operations specialist.",
       "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8878929002",
+      "title": "Director, AI/ML Engineering",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8878929002",
+      "postedAt": "2026-10-08T16:33:29-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5254640007",
@@ -123,6 +160,21 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-calendly-8860525002",
+      "title": "Staff Product Manager, Meetings",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8860525002",
+      "postedAt": "2026-10-05T20:12:33-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "",
       "earlyCareer": false
     },
     {
@@ -336,6 +388,21 @@
       "earlyCareer": true
     },
     {
+      "id": "gh-calendly-8846049002",
+      "title": "Senior Full Stack Engineer, Website Development",
+      "company": "Calendly",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+      "postedAt": "2026-09-28T11:31:38-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
       "id": "gh-fleetio-5249570007",
       "title": "Senior Revenue Operations Analyst",
       "company": "Fleetio",
@@ -408,6 +475,21 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Fleetio seeks manager of revenue operations",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8750650002",
+      "title": "Sneaker Verification Expert",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750650002",
+      "postedAt": "2026-09-22T13:29:02-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Other",
+      "blurb": "",
       "earlyCareer": true
     },
     {
@@ -561,6 +643,21 @@
       "earlyCareer": true
     },
     {
+      "id": "gh-calendly-8817389002",
+      "title": "Senior Full Stack Engineer, Notetaker",
+      "company": "Calendly",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8817389002",
+      "postedAt": "2026-09-18T10:49:41-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
       "id": "gh-fleetio-5228724007",
       "title": "Partner Enablement Manager",
       "company": "Fleetio",
@@ -604,6 +701,36 @@
       "role": "Growth & Marketing",
       "blurb": "StockX seeks growth specialist for social, programmatic and creative",
       "earlyCareer": true
+    },
+    {
+      "id": "gh-calendly-8790919002",
+      "title": "Senior Manager, Security Ops & Prod Security",
+      "company": "Calendly",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8790919002",
+      "postedAt": "2026-09-16T19:09:28-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-calendly-8788325002",
+      "title": "Staff Product Manager, Intelligent Customer Experience",
+      "company": "Calendly",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8788325002",
+      "postedAt": "2026-09-15T12:51:14-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Product",
+      "blurb": "",
+      "earlyCareer": false
     },
     {
       "id": "gh-salesloft-7950576",
@@ -678,21 +805,6 @@
       "salary": "",
       "role": "Engineering",
       "blurb": "Spatial Front builds workplace technology solutions. APEX Developer role.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5213856007",
-      "title": "Associate Software Engineer, Marketplace",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5213856007",
-      "postedAt": "2026-09-09T17:04:13-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet management software seeks software engineer.",
       "earlyCareer": true
     }
   ]
