@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-10-11T16:26:06.689Z",
+  "updatedAt": "2026-10-12T20:01:20.527Z",
   "count": 53,
   "newIds": [],
   "jobs": [
+    {
+      "id": "gh-fleetio-5250796007",
+      "title": "Senior GTM Systems Administrator",
+      "company": "Fleetio",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5250796007",
+      "postedAt": "2026-10-12T11:16:17-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Fleetio, fleet management software. GTM systems admin.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-salesloft-7991573",
       "title": "Senior Commercial Account Manager",
@@ -347,21 +362,6 @@
       "role": "Engineering",
       "blurb": "Frontier lab building large action models and world models for robotics",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5250796007",
-      "title": "Senior GTM Systems Administrator",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5250796007",
-      "postedAt": "2026-09-28T16:13:28-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio, fleet management software. GTM systems admin.",
-      "earlyCareer": false
     },
     {
       "id": "gh-stockx-8852991002",
