@@ -1,8 +1,72 @@
 {
-  "updatedAt": "2026-10-13T17:49:37.267Z",
-  "count": 52,
-  "newIds": [],
+  "updatedAt": "2026-10-14T15:34:00.414Z",
+  "count": 55,
+  "newIds": [
+    "gh-stockx-8414215002",
+    "gh-stockx-8400306002",
+    "gh-stockx-8433854002"
+  ],
   "jobs": [
+    {
+      "id": "gh-stockx-8878929002",
+      "title": "Director, AI/ML Engineering",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8878929002",
+      "postedAt": "2026-10-14T09:47:33-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8433854002",
+      "title": "Category Manager - Trading Cards",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8433854002",
+      "postedAt": "2026-10-14T09:44:23-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400306002",
+      "title": "Category Manager - StockX Live",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400306002",
+      "postedAt": "2026-10-14T09:41:08-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8414215002",
+      "title": "Category Manager",
+      "company": "StockX",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8414215002",
+      "postedAt": "2026-10-14T09:40:30-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-fleetio-5250796007",
       "title": "Senior GTM Systems Administrator",
@@ -47,21 +111,6 @@
       "role": "Operations",
       "blurb": "StockX, resale marketplace. Seasonal operations specialist.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8878929002",
-      "title": "Director, AI/ML Engineering",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8878929002",
-      "postedAt": "2026-10-08T16:33:29-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Engineering",
-      "blurb": "",
-      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5254640007",
