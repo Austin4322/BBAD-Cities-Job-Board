@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-10-17T13:58:39.034Z",
-  "count": 85,
-  "newIds": [
-    "gh-salesloft-8261172",
-    "gh-salesloft-8114019",
-    "gh-salesloft-8282666",
-    "gh-salesloft-8282632",
-    "gh-salesloft-7950576",
-    "gh-salesloft-8119953",
-    "gh-salesloft-8289957"
-  ],
+  "updatedAt": "2026-10-18T14:11:06.810Z",
+  "count": 82,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-salesloft-8261172",
@@ -1240,51 +1232,6 @@
       "role": "Engineering",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5228724007",
-      "title": "Partner Enablement Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5228724007",
-      "postedAt": "2026-09-17T16:50:02-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management platform seeks partner enablement manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5192196007",
-      "title": "Director, Product Marketing, GTM Strategy",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5192196007",
-      "postedAt": "2026-09-17T13:36:57-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management platform seeks director of product marketing GTM.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8816805002",
-      "title": "Growth Specialist: Social, Programmatic & Creative",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8816805002",
-      "postedAt": "2026-09-17T11:39:18-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Growth & Marketing",
-      "blurb": "StockX seeks growth specialist for social, programmatic and creative",
-      "earlyCareer": true
     }
   ]
 }
