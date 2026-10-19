@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-10-18T14:11:06.810Z",
-  "count": 82,
-  "newIds": [],
+  "updatedAt": "2026-10-19T17:13:07.643Z",
+  "count": 81,
+  "newIds": [
+    "gh-calendly-8895903002"
+  ],
   "jobs": [
+    {
+      "id": "gh-calendly-8895903002",
+      "title": "Full Stack Engineer - Trust and Safety",
+      "company": "Calendly",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8895903002",
+      "postedAt": "2026-10-19T13:05:53-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8282666",
+      "title": "HR Enablement Lead",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8282666",
+      "postedAt": "2026-10-19T10:44:03-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8261172",
       "title": "Enterprise Account Executive",
@@ -15,21 +47,6 @@
       "cityId": "atl",
       "remote": true,
       "role": "Sales",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8282666",
-      "title": "HR Enablement Lead",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8282666",
-      "postedAt": "2026-10-16T18:18:00-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
       "blurb": "",
       "earlyCareer": true
     },
@@ -610,21 +627,6 @@
       "location": "Detroit, MI",
       "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
       "postedAt": "2026-10-14T09:43:05-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Other",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8400380002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
-      "postedAt": "2026-10-14T09:42:19-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
@@ -1217,21 +1219,6 @@
       "role": "Operations",
       "blurb": "HR generalist at advanced separation technology company.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-calendly-8817389002",
-      "title": "Senior Full Stack Engineer, Notetaker",
-      "company": "Calendly",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8817389002",
-      "postedAt": "2026-09-18T10:49:41-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "",
-      "earlyCareer": false
     }
   ]
 }
