@@ -1,10 +1,55 @@
 {
-  "updatedAt": "2026-10-19T17:13:07.643Z",
-  "count": 81,
+  "updatedAt": "2026-10-20T15:24:31.377Z",
+  "count": 82,
   "newIds": [
-    "gh-calendly-8895903002"
+    "gh-fleetio-5241221007"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5241221007",
+      "title": "Staff Product Manager, Connected Ecosystem",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241221007",
+      "postedAt": "2026-10-20T10:42:13-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Product",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-fleetio-5253664007",
+      "title": "Senior Software Engineer, Marketplace",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5253664007",
+      "postedAt": "2026-10-20T10:04:40-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "Fleetio fleet operations platform seeks software engineer.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8119953",
+      "title": "Salesforce Business Systems Administrator",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8119953",
+      "postedAt": "2026-10-19T16:57:31-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-calendly-8895903002",
       "title": "Full Stack Engineer - Trust and Safety",
@@ -124,21 +169,6 @@
       "role": "Operations",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8119953",
-      "title": "Salesforce Business Systems Administrator",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8119953",
-      "postedAt": "2026-10-16T15:12:36-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "",
-      "earlyCareer": true
     },
     {
       "id": "gh-salesloft-8289957",
@@ -889,21 +919,6 @@
       "role": "Operations",
       "blurb": "Vertage builds sales capability through learning and development programs.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5253664007",
-      "title": "Senior Software Engineer, Marketplace",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5253664007",
-      "postedAt": "2026-09-30T18:42:52-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio fleet operations platform seeks software engineer.",
-      "earlyCareer": false
     },
     {
       "id": "gh-fleetio-5184846007",
