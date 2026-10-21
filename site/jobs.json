@@ -1,10 +1,53 @@
 {
-  "updatedAt": "2026-10-20T15:24:31.377Z",
-  "count": 82,
-  "newIds": [
-    "gh-fleetio-5241221007"
-  ],
+  "updatedAt": "2026-10-21T15:40:49.556Z",
+  "count": 81,
+  "newIds": [],
   "jobs": [
+    {
+      "id": "gh-salesloft-8092662",
+      "title": "Sr. Customer Success Manager ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8092662",
+      "postedAt": "2026-10-21T08:55:37-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8261172",
+      "title": "Enterprise Account Executive",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8261172",
+      "postedAt": "2026-10-20T19:40:33-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5236015007",
+      "title": "Senior Field Marketing Manager",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236015007",
+      "postedAt": "2026-10-20T16:24:31-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "Fleetio fleet management software, senior field marketing manager.",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5241221007",
       "title": "Staff Product Manager, Connected Ecosystem",
@@ -81,21 +124,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-salesloft-8261172",
-      "title": "Enterprise Account Executive",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8261172",
-      "postedAt": "2026-10-16T18:18:01-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-salesloft-7950576",
       "title": "Principal Software Engineer, AI",
       "company": "Salesloft",
@@ -108,21 +136,6 @@
       "remote": true,
       "role": "Engineering",
       "blurb": "",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8092662",
-      "title": "Sr. Customer Success Manager ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8092662",
-      "postedAt": "2026-10-16T17:40:44-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
       "earlyCareer": false
     },
     {
@@ -846,21 +859,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5257374007",
-      "title": "Senior Lifecycle Marketing Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5257374007",
-      "postedAt": "2026-10-05T16:28:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management software, lifecycle marketing leader.",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5217902007",
       "title": "Senior Forward Deployed Engineer",
       "company": "Fleetio",
@@ -1038,21 +1036,6 @@
       "remote": true,
       "role": "Operations",
       "blurb": "Fleetio fleet management software seeks revenue operations analyst.",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5236015007",
-      "title": "Senior Field Marketing Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236015007",
-      "postedAt": "2026-09-23T10:57:37-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management software, senior field marketing manager.",
       "earlyCareer": false
     },
     {
