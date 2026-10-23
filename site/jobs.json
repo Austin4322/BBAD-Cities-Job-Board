@@ -1,20 +1,25 @@
 {
-  "updatedAt": "2026-10-22T15:54:18.968Z",
-  "count": 80,
+  "updatedAt": "2026-10-23T15:29:43.616Z",
+  "count": 79,
   "newIds": [
-    "gh-fleetio-5228724007",
-    "gh-fleetio-5271172007",
-    "ts-898125597",
-    "ts-897265911",
-    "ts-897687613",
-    "ts-898144455",
-    "ts-897954586",
-    "ts-897261546",
-    "ts-897223615",
-    "ts-898126520",
-    "ts-898252063"
+    "gh-calendly-8728555002"
   ],
   "jobs": [
+    {
+      "id": "gh-calendly-8728555002",
+      "title": "Staff Product Manager, AI Assistant",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
+      "postedAt": "2026-10-22T19:07:58-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "",
+      "earlyCareer": false
+    },
     {
       "id": "gh-fleetio-5271172007",
       "title": "Senior Content Marketing Manager",
@@ -1184,36 +1189,6 @@
       "role": "Operations",
       "blurb": "Fleetio fleet management software seeks revenue operations analyst.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5242159007",
-      "title": "Manager, Revenue Operations",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5242159007",
-      "postedAt": "2026-09-22T15:04:23-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio seeks manager of revenue operations",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8750650002",
-      "title": "Sneaker Verification Expert",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750650002",
-      "postedAt": "2026-09-22T13:29:02-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Other",
-      "blurb": "",
-      "earlyCareer": true
     }
   ]
 }
