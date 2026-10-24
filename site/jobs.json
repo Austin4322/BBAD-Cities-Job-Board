@@ -1,10 +1,56 @@
 {
-  "updatedAt": "2026-10-23T15:29:43.616Z",
-  "count": 79,
+  "updatedAt": "2026-10-24T14:08:49.085Z",
+  "count": 81,
   "newIds": [
-    "gh-calendly-8728555002"
+    "gh-salesloft-8315985",
+    "gh-salesloft-8318270"
   ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8318270",
+      "title": "People Operations Coordinator - Temp to FTE Opportunity",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8318270",
+      "postedAt": "2026-10-23T18:11:01-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8315985",
+      "title": "Legal Operations Manager ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8315985",
+      "postedAt": "2026-10-23T16:26:54-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8114019",
+      "title": "Financial Analyst, R&D",
+      "company": "Salesloft",
+      "location": "Atlanta, Georgia",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8114019",
+      "postedAt": "2026-10-23T13:38:40-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Data",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-calendly-8728555002",
       "title": "Staff Product Manager, AI Assistant",
@@ -319,21 +365,6 @@
       "role": "Engineering",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8114019",
-      "title": "Financial Analyst, R&D",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8114019",
-      "postedAt": "2026-10-16T17:39:36-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Data",
-      "blurb": "",
-      "earlyCareer": true
     },
     {
       "id": "gh-salesloft-8282632",
