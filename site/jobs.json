@@ -1,15 +1,63 @@
 {
-  "updatedAt": "2026-10-25T14:36:40.518Z",
+  "updatedAt": "2026-10-26T17:02:05.158Z",
   "count": 81,
-  "newIds": [],
+  "newIds": [
+    "gh-calendly-8728557002",
+    "gh-stockx-8750534002"
+  ],
   "jobs": [
+    {
+      "id": "gh-calendly-8728555002",
+      "title": "Staff Product Manager, AI Assistant",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
+      "postedAt": "2026-10-26T11:34:16-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-calendly-8728557002",
+      "title": "Staff Product Manager, Engagement",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8728557002",
+      "postedAt": "2026-10-26T11:33:47-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8789885002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
+      "postedAt": "2026-10-26T09:55:14-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "StockX marketplace seeks operations specialist.",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8318270",
       "title": "People Operations Coordinator - Temp to FTE Opportunity",
       "company": "Salesloft",
       "location": "United States, Remote",
       "url": "https://www.salesloft.com/company/careers?gh_jid=8318270",
-      "postedAt": "2026-10-23T18:11:01-04:00",
+      "postedAt": "2026-10-26T09:31:51-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
@@ -47,36 +95,6 @@
       "role": "Data",
       "blurb": "",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-calendly-8728555002",
-      "title": "Staff Product Manager, AI Assistant",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
-      "postedAt": "2026-10-22T19:07:58-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5271172007",
-      "title": "Senior Content Marketing Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5271172007",
-      "postedAt": "2026-10-22T09:14:38-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "",
-      "earlyCareer": false
     },
     {
       "id": "ts-898125597",
@@ -874,6 +892,21 @@
       "earlyCareer": true
     },
     {
+      "id": "gh-stockx-8750534002",
+      "title": "Category Manager - Sneakers",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
+      "postedAt": "2026-10-14T09:43:05-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
       "id": "gh-stockx-8400306002",
       "title": "Category Manager - StockX Live",
       "company": "StockX",
@@ -1039,21 +1072,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8789885002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
-      "postedAt": "2026-10-06T17:07:29-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeks operations specialist.",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-fleetio-5217902007",
       "title": "Senior Forward Deployed Engineer",
       "company": "Fleetio",
@@ -1201,21 +1219,6 @@
       "remote": true,
       "role": "Engineering",
       "blurb": "",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-fleetio-5249570007",
-      "title": "Senior Revenue Operations Analyst",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5249570007",
-      "postedAt": "2026-09-25T16:16:46-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "Fleetio fleet management software seeks revenue operations analyst.",
       "earlyCareer": false
     }
   ]
