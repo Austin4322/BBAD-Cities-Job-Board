@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-10-27T16:05:00.724Z",
-  "count": 78,
-  "newIds": [],
+  "updatedAt": "2026-10-28T16:51:27.053Z",
+  "count": 77,
+  "newIds": [
+    "gh-salesloft-8328765"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8328765",
+      "title": "Sr. Director, Talent Acquisition",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
+      "postedAt": "2026-10-28T08:42:31-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Design",
+      "blurb": "",
+      "earlyCareer": false
+    },
     {
       "id": "gh-salesloft-8289957",
       "title": "Senior Salesforce Business Systems Administrator",
@@ -362,21 +379,6 @@
       "role": "Engineering",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8282632",
-      "title": "People Business Partner ",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8282632",
-      "postedAt": "2026-10-16T17:30:42-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
-      "blurb": "",
-      "earlyCareer": true
     },
     {
       "id": "gh-salesloft-8282596",
@@ -1157,21 +1159,6 @@
       "role": "Growth & Marketing",
       "blurb": "StockX, sneaker marketplace. Social media coordinator.",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-calendly-8846049002",
-      "title": "Senior Full Stack Engineer, Website Development",
-      "company": "Calendly",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
-      "postedAt": "2026-09-28T11:31:38-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "",
-      "earlyCareer": false
     }
   ]
 }
