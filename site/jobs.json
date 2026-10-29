@@ -1,37 +1,35 @@
 {
-  "updatedAt": "2026-10-28T16:51:27.053Z",
-  "count": 77,
-  "newIds": [
-    "gh-salesloft-8328765"
-  ],
+  "updatedAt": "2026-10-29T17:06:51.563Z",
+  "count": 74,
+  "newIds": [],
   "jobs": [
-    {
-      "id": "gh-salesloft-8328765",
-      "title": "Sr. Director, Talent Acquisition",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
-      "postedAt": "2026-10-28T08:42:31-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Design",
-      "blurb": "",
-      "earlyCareer": false
-    },
     {
       "id": "gh-salesloft-8289957",
       "title": "Senior Salesforce Business Systems Administrator",
       "company": "Salesloft",
       "location": "United States, Remote",
       "url": "https://www.salesloft.com/company/careers?gh_jid=8289957",
-      "postedAt": "2026-10-26T17:52:14-04:00",
+      "postedAt": "2026-10-28T16:37:12-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
       "remote": true,
       "role": "Sales",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8328765",
+      "title": "Senior Director, Talent Acquisition",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
+      "postedAt": "2026-10-28T16:03:06-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Design",
       "blurb": "",
       "earlyCareer": false
     },
@@ -1113,51 +1111,6 @@
       "remote": false,
       "role": "Growth & Marketing",
       "blurb": "StockX marketplace platform, growth specialist for e-commerce channel.",
-      "earlyCareer": true
-    },
-    {
-      "id": "ts-858040962",
-      "title": "Client Relations Associate",
-      "company": "NoeCee Global, Inc",
-      "cityId": "dmv",
-      "location": "Washington, DC",
-      "url": "https://www.linkedin.com/jobs/view/4471284094/",
-      "postedAt": "2026-09-29",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "",
-      "role": "Operations",
-      "blurb": "Client relations associate for customer relationship management",
-      "earlyCareer": true
-    },
-    {
-      "id": "ts-858569527",
-      "title": "Applied Robotics Engineer",
-      "company": "General Intuition & Medal",
-      "cityId": "dmv",
-      "location": "Washington DC",
-      "url": "https://jobs.ashbyhq.com/generalintuition-medal/11358b7e-edb7-4b00-b2b9-c3665578972b",
-      "postedAt": "2026-09-29",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "$180k - $300k per year",
-      "role": "Engineering",
-      "blurb": "Frontier lab building large action models and world models for robotics",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8852991002",
-      "title": "Social Media Coordinator",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8852991002",
-      "postedAt": "2026-09-28T15:38:07-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Growth & Marketing",
-      "blurb": "StockX, sneaker marketplace. Social media coordinator.",
       "earlyCareer": true
     }
   ]
