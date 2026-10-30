@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-10-29T17:06:51.563Z",
-  "count": 74,
-  "newIds": [],
+  "updatedAt": "2026-10-30T16:50:27.030Z",
+  "count": 73,
+  "newIds": [
+    "gh-calendly-8922278002",
+    "gh-stockx-8923935002"
+  ],
   "jobs": [
+    {
+      "id": "gh-stockx-8923935002",
+      "title": "Seasonal Operations Specialist - Night Shift",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8923935002",
+      "postedAt": "2026-10-29T22:17:03-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-calendly-8922278002",
+      "title": "Senior Product Marketing Manager",
+      "company": "Calendly",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8922278002",
+      "postedAt": "2026-10-29T17:27:56-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Growth & Marketing",
+      "blurb": "",
+      "earlyCareer": false
+    },
     {
       "id": "gh-salesloft-8289957",
       "title": "Senior Salesforce Business Systems Administrator",
@@ -1066,51 +1099,6 @@
       "salary": "",
       "role": "Operations",
       "blurb": "Vertage builds sales capability through learning and development programs.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5184846007",
-      "title": "Account Executive, SMB",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5184846007",
-      "postedAt": "2026-09-30T11:51:11-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software, account executive for SMB segment.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5187750007",
-      "title": "Account Executive, Mid-Market",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5187750007",
-      "postedAt": "2026-09-30T11:50:59-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks account executive for mid-market",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8857520002",
-      "title": "Growth Specialist: E-Commerce",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8857520002",
-      "postedAt": "2026-09-30T10:50:13-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Growth & Marketing",
-      "blurb": "StockX marketplace platform, growth specialist for e-commerce channel.",
       "earlyCareer": true
     }
   ]
