@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-11-01T16:56:09.057Z",
+  "updatedAt": "2026-11-02T20:31:57.899Z",
   "count": 71,
-  "newIds": [],
+  "newIds": [
+    "gh-salesloft-8346477"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8328765",
+      "title": "Senior Director, Talent Acquisition",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
+      "postedAt": "2026-11-02T15:14:32-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Design",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8346477",
+      "title": "Financial Analyst (P2) - Temp to FTE Opportunity",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8346477",
+      "postedAt": "2026-11-02T12:59:20-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Data",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8923935002",
       "title": "Seasonal Operations Specialist - Night Shift",
@@ -45,21 +77,6 @@
       "cityId": "atl",
       "remote": true,
       "role": "Sales",
-      "blurb": "",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8328765",
-      "title": "Senior Director, Talent Acquisition",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
-      "postedAt": "2026-10-28T16:03:06-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Design",
       "blurb": "",
       "earlyCareer": false
     },
@@ -1051,21 +1068,6 @@
       "salary": "",
       "role": "Engineering",
       "blurb": "Medical engineer improving operating room processes at healthcare startup.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5217902007",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5217902007",
-      "postedAt": "2026-10-02T17:55:06-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "Fleetio forward-deployed engineer for fleet management software",
       "earlyCareer": true
     }
   ]
