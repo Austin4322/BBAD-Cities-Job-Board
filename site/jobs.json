@@ -1,22 +1,55 @@
 {
-  "updatedAt": "2026-11-02T20:31:57.899Z",
+  "updatedAt": "2026-11-03T18:06:27.968Z",
   "count": 71,
   "newIds": [
-    "gh-salesloft-8346477"
+    "gh-fleetio-5282141007",
+    "gh-stockx-8400380002",
+    "gh-stockx-8928202002",
+    "gh-stockx-8928207002"
   ],
   "jobs": [
     {
-      "id": "gh-salesloft-8328765",
-      "title": "Senior Director, Talent Acquisition",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
-      "postedAt": "2026-11-02T15:14:32-05:00",
+      "id": "gh-stockx-8928207002",
+      "title": "Sneaker Verification Expert",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8928207002",
+      "postedAt": "2026-11-03T10:06:48-05:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
+      "remote": false,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8928202002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8928202002",
+      "postedAt": "2026-11-03T10:02:32-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5282141007",
+      "title": "Senior Software Engineer, Developer Enablement",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5282141007",
+      "postedAt": "2026-11-02T17:10:13-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
       "remote": true,
-      "role": "Design",
+      "role": "Engineering",
       "blurb": "",
       "earlyCareer": false
     },
@@ -109,21 +142,6 @@
       "role": "Product",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8789885002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8789885002",
-      "postedAt": "2026-10-26T09:55:14-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX marketplace seeks operations specialist.",
-      "earlyCareer": true
     },
     {
       "id": "gh-salesloft-8318270",
@@ -291,21 +309,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-fleetio-5228724007",
-      "title": "Partner Enablement Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5228724007",
-      "postedAt": "2026-10-21T13:07:20-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Other",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-salesloft-8092662",
       "title": "Sr. Customer Success Manager ",
       "company": "Salesloft",
@@ -319,21 +322,6 @@
       "role": "Operations",
       "blurb": "Salesloft, revenue enablement platform. Senior customer success.",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8261172",
-      "title": "Enterprise Account Executive",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8261172",
-      "postedAt": "2026-10-20T19:40:33-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "",
-      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5236015007",
@@ -901,6 +889,21 @@
       "salary": "",
       "cityId": "det",
       "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400380002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
+      "postedAt": "2026-10-14T09:42:19-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
       "role": "Other",
       "blurb": "",
       "earlyCareer": true
