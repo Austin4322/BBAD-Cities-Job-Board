@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-11-04T18:15:42.676Z",
-  "count": 72,
+  "updatedAt": "2026-11-05T18:20:45.520Z",
+  "count": 74,
   "newIds": [
-    "gh-calendly-8628979002",
-    "gh-fleetio-5282148007",
-    "gh-fleetio-5283554007",
-    "gh-stockx-8750534002",
-    "gh-stockx-8929899002"
+    "gh-stockx-8400380002",
+    "gh-stockx-8931427002",
+    "gh-fleetio-5285239007",
+    "gh-fleetio-5284437007"
   ],
   "jobs": [
+    {
+      "id": "gh-stockx-8931427002",
+      "title": "Team Lead, Operations and Supply Chain",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8931427002",
+      "postedAt": "2026-11-05T12:29:26-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5285239007",
+      "title": "Associate Proposals Consultant",
+      "company": "Fleetio",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5285239007",
+      "postedAt": "2026-11-04T16:06:58-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5284437007",
+      "title": "Senior Security Operations Engineer",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5284437007",
+      "postedAt": "2026-11-04T14:53:56-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
+    },
     {
       "id": "gh-calendly-8628979002",
       "title": "Staff Platform Engineer",
@@ -143,21 +187,6 @@
       "role": "Engineering",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8346477",
-      "title": "Financial Analyst (P2) - Temp to FTE Opportunity",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8346477",
-      "postedAt": "2026-11-02T12:59:20-05:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Data",
-      "blurb": "",
-      "earlyCareer": true
     },
     {
       "id": "gh-stockx-8923935002",
@@ -925,12 +954,12 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8750534002",
-      "title": "Category Manager - Sneakers",
+      "id": "gh-stockx-8400380002",
+      "title": "Category Manager - Apparel",
       "company": "StockX",
       "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
-      "postedAt": "2026-10-14T09:43:05-04:00",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
+      "postedAt": "2026-10-14T09:42:19-04:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "det",
