@@ -1,13 +1,25 @@
 {
-  "updatedAt": "2026-11-05T18:20:45.520Z",
-  "count": 74,
+  "updatedAt": "2026-11-06T17:43:08.595Z",
+  "count": 75,
   "newIds": [
-    "gh-stockx-8400380002",
-    "gh-stockx-8931427002",
-    "gh-fleetio-5285239007",
-    "gh-fleetio-5284437007"
+    "gh-salesloft-8003853"
   ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8003853",
+      "title": "Commercial Account Manager",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
+      "postedAt": "2026-11-06T10:54:58-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8931427002",
       "title": "Team Lead, Operations and Supply Chain",
