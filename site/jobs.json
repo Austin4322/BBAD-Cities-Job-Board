@@ -1,10 +1,57 @@
 {
-  "updatedAt": "2026-11-06T17:43:08.595Z",
+  "updatedAt": "2026-11-07T16:39:25.443Z",
   "count": 75,
   "newIds": [
-    "gh-salesloft-8003853"
+    "gh-salesloft-8354500",
+    "gh-stockx-8933524002",
+    "gh-stockx-8933535002"
   ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8354500",
+      "title": "Regional Vice President, Enterprise Sales",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8354500",
+      "postedAt": "2026-11-06T17:36:11-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8933535002",
+      "title": "Senior Transportation Analyst",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8933535002",
+      "postedAt": "2026-11-06T12:53:27-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Data",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8933524002",
+      "title": "Growth Specialist: E-Commerce",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8933524002",
+      "postedAt": "2026-11-06T12:46:38-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Growth & Marketing",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8003853",
       "title": "Commercial Account Manager",
@@ -1084,51 +1131,6 @@
       "role": "Sales",
       "blurb": "Fleetio fleet management software seeks regional sales manager.",
       "earlyCareer": false
-    },
-    {
-      "id": "ts-872847445",
-      "title": "Account Executive (Enterprise)",
-      "company": "3C APAC",
-      "cityId": "atl",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474804238/",
-      "postedAt": "2026-10-08",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "",
-      "role": "Sales",
-      "blurb": "3C Software finance/operations, enterprise account executive.",
-      "earlyCareer": true
-    },
-    {
-      "id": "ts-874038971",
-      "title": "Manager, GTM Systems (RevOps)",
-      "company": "FinQuery",
-      "cityId": "atl",
-      "location": "Atlanta, GA",
-      "url": "https://jobs.lever.co/finquery/04b13475-b5f8-4557-8364-3bde4eb27bfe",
-      "postedAt": "2026-10-08",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "$135k - $150k per year",
-      "role": "Operations",
-      "blurb": "FinQuery accounting automation, GTM systems/RevOps manager.",
-      "earlyCareer": true
-    },
-    {
-      "id": "ts-874062665",
-      "title": "Medical Engineer",
-      "company": "DEO.care",
-      "cityId": "det",
-      "location": "Ann Arbor, MI",
-      "url": "https://deo.breezy.hr/p/ab1be16aaae201-medical-engineer",
-      "postedAt": "2026-10-08",
-      "remote": false,
-      "source": "TheirStack",
-      "salary": "",
-      "role": "Engineering",
-      "blurb": "Medical engineer improving operating room processes at healthcare startup.",
-      "earlyCareer": true
     }
   ]
 }
