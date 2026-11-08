@@ -1,11 +1,7 @@
 {
-  "updatedAt": "2026-11-07T16:39:25.443Z",
-  "count": 75,
-  "newIds": [
-    "gh-salesloft-8354500",
-    "gh-stockx-8933524002",
-    "gh-stockx-8933535002"
-  ],
+  "updatedAt": "2026-11-08T16:48:01.091Z",
+  "count": 72,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-salesloft-8354500",
@@ -1013,21 +1009,6 @@
       "earlyCareer": true
     },
     {
-      "id": "gh-stockx-8400380002",
-      "title": "Category Manager - Apparel",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
-      "postedAt": "2026-10-14T09:42:19-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Other",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
       "id": "gh-stockx-8400306002",
       "title": "Category Manager - StockX Live",
       "company": "StockX",
@@ -1101,36 +1082,6 @@
       "role": "Design",
       "blurb": "",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8750569002",
-      "title": "Seasonal Operations Specialist",
-      "company": "StockX",
-      "location": "Detroit, MI",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8750569002",
-      "postedAt": "2026-10-09T11:51:57-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "det",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "StockX, resale marketplace. Seasonal operations specialist.",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5254640007",
-      "title": "Regional Sales Manager, Mid-Market",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5254640007",
-      "postedAt": "2026-10-08T13:57:52-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "Fleetio fleet management software seeks regional sales manager.",
-      "earlyCareer": false
     }
   ]
 }
