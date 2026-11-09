@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T16:48:01.091Z",
-  "count": 72,
+  "updatedAt": "2026-11-09T21:08:29.912Z",
+  "count": 71,
   "newIds": [],
   "jobs": [
     {
@@ -45,21 +45,6 @@
       "cityId": "det",
       "remote": false,
       "role": "Growth & Marketing",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8003853",
-      "title": "Commercial Account Manager",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8003853",
-      "postedAt": "2026-11-06T10:54:58-05:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Other",
       "blurb": "",
       "earlyCareer": true
     },
