@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-11-09T21:08:29.912Z",
-  "count": 71,
-  "newIds": [],
+  "updatedAt": "2026-11-10T18:20:03.510Z",
+  "count": 73,
+  "newIds": [
+    "gh-salesloft-8369026",
+    "gh-fleetio-5289978007"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8369026",
+      "title": "Sales Development Representative",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8369026",
+      "postedAt": "2026-11-10T11:07:50-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5289978007",
+      "title": "Systems Administrator",
+      "company": "Fleetio",
+      "location": "Remote - USA, CAN, MEX",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5289978007",
+      "postedAt": "2026-11-10T09:28:37-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8354500",
       "title": "Regional Vice President, Enterprise Sales",
