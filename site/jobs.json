@@ -1,10 +1,7 @@
 {
-  "updatedAt": "2026-11-10T18:20:03.510Z",
+  "updatedAt": "2026-11-11T18:09:58.858Z",
   "count": 73,
-  "newIds": [
-    "gh-salesloft-8369026",
-    "gh-fleetio-5289978007"
-  ],
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-salesloft-8369026",
@@ -12,7 +9,7 @@
       "company": "Salesloft",
       "location": "United States, Remote",
       "url": "https://www.salesloft.com/company/careers?gh_jid=8369026",
-      "postedAt": "2026-11-10T11:07:50-05:00",
+      "postedAt": "2026-11-11T11:42:27-05:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
