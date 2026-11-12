@@ -1,8 +1,42 @@
 {
-  "updatedAt": "2026-11-11T18:09:58.858Z",
-  "count": 73,
-  "newIds": [],
+  "updatedAt": "2026-11-12T18:37:53.973Z",
+  "count": 76,
+  "newIds": [
+    "gh-fleetio-5055046007",
+    "gh-fleetio-4758147007",
+    "gh-stockx-8400380002"
+  ],
   "jobs": [
+    {
+      "id": "gh-fleetio-4758147007",
+      "title": "Outbound Sales Development Representative",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/4758147007",
+      "postedAt": "2026-11-12T12:09:13-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-fleetio-5055046007",
+      "title": "Outbound Sales Development Manager",
+      "company": "Fleetio",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5055046007",
+      "postedAt": "2026-11-12T12:07:28-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Sales",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8369026",
       "title": "Sales Development Representative",
@@ -1019,6 +1053,21 @@
       "salary": "",
       "cityId": "det",
       "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8400380002",
+      "title": "Category Manager - Apparel",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8400380002",
+      "postedAt": "2026-10-14T09:42:19-04:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
       "role": "Other",
       "blurb": "",
       "earlyCareer": true
