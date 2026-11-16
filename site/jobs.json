@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-11-15T17:28:00.324Z",
-  "count": 40,
-  "newIds": [],
+  "updatedAt": "2026-11-16T20:42:09.226Z",
+  "count": 42,
+  "newIds": [
+    "gh-salesloft-8328765",
+    "gh-salesloft-8386104",
+    "gh-stockx-8940502002",
+    "gh-stockx-8942720002"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8386104",
+      "title": "Senior GTM Engineer",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8386104",
+      "postedAt": "2026-11-16T15:25:16-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-salesloft-8328765",
+      "title": "Senior Director, Talent Acquisition",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8328765",
+      "postedAt": "2026-11-16T11:23:09-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Design",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8940502002",
+      "title": "Night Shift Interim Team Captain, Operations and Supply Chain",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8940502002",
+      "postedAt": "2026-11-16T09:56:26-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8942720002",
+      "title": "Software Engineer (Front End)",
+      "company": "StockX",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8942720002",
+      "postedAt": "2026-11-16T09:30:11-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "det",
+      "remote": false,
+      "role": "Engineering",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8384845",
       "title": "Head of Channel Sales & Alliances",
@@ -544,21 +609,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-fleetio-5241221007",
-      "title": "Staff Product Manager, Connected Ecosystem",
-      "company": "Fleetio",
-      "location": "Remote - USA, CAN, MEX",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5241221007",
-      "postedAt": "2026-10-20T10:42:13-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Product",
-      "blurb": "",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-fleetio-5253664007",
       "title": "Senior Software Engineer, Marketplace",
       "company": "Fleetio",
@@ -587,21 +637,6 @@
       "role": "Operations",
       "blurb": "",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-7950576",
-      "title": "Principal Software Engineer, AI",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=7950576",
-      "postedAt": "2026-10-16T17:41:06-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Engineering",
-      "blurb": "",
-      "earlyCareer": false
     }
   ]
 }
