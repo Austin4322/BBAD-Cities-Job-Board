@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-11-19T19:12:43.942Z",
-  "count": 41,
+  "updatedAt": "2026-11-20T18:52:42.159Z",
+  "count": 39,
   "newIds": [],
   "jobs": [
+    {
+      "id": "gh-calendly-8728555002",
+      "title": "Staff Product Manager, AI Assistant",
+      "company": "Calendly",
+      "location": "San Francisco (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
+      "postedAt": "2026-11-19T19:11:16-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Product",
+      "blurb": "",
+      "earlyCareer": false
+    },
+    {
+      "id": "gh-stockx-8928202002",
+      "title": "Operations Specialist",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8928202002",
+      "postedAt": "2026-11-19T15:52:58-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-stockx-8923935002",
       "title": "Seasonal Operations Specialist - Night Shift",
@@ -92,36 +122,6 @@
       "role": "Other",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-calendly-8728555002",
-      "title": "Staff Product Manager, AI Assistant",
-      "company": "Calendly",
-      "location": "San Francisco (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
-      "postedAt": "2026-11-18T11:24:04-05:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Product",
-      "blurb": "",
-      "earlyCareer": false
-    },
-    {
-      "id": "gh-stockx-8928202002",
-      "title": "Operations Specialist",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8928202002",
-      "postedAt": "2026-11-18T11:20:44-05:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "",
-      "earlyCareer": true
     },
     {
       "id": "gh-fleetio-5284437007",
@@ -409,21 +409,6 @@
       "earlyCareer": false
     },
     {
-      "id": "gh-calendly-8922278002",
-      "title": "Senior Product Marketing Manager",
-      "company": "Calendly",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8922278002",
-      "postedAt": "2026-10-29T17:27:56-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "",
-      "earlyCareer": false
-    },
-    {
       "id": "gh-salesloft-8289957",
       "title": "Senior Salesforce Business Systems Administrator",
       "company": "Salesloft",
@@ -602,21 +587,6 @@
       "role": "Other",
       "blurb": "",
       "earlyCareer": true
-    },
-    {
-      "id": "gh-fleetio-5236015007",
-      "title": "Senior Field Marketing Manager",
-      "company": "Fleetio",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5236015007",
-      "postedAt": "2026-10-20T16:24:31-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "bhm",
-      "remote": true,
-      "role": "Growth & Marketing",
-      "blurb": "Fleetio fleet management software, senior field marketing manager.",
-      "earlyCareer": false
     }
   ]
 }
