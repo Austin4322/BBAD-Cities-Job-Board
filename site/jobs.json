@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-22T18:05:49.595Z",
+  "updatedAt": "2026-11-23T22:16:32.753Z",
   "count": 29,
-  "newIds": [],
+  "newIds": [
+    "gh-salesloft-8404246"
+  ],
   "jobs": [
+    {
+      "id": "gh-salesloft-8404246",
+      "title": "Senior Corporate Accountant - Tax",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8404246",
+      "postedAt": "2026-11-23T14:58:18-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": false
+    },
     {
       "id": "gh-calendly-8728555002",
       "title": "Staff Product Manager, AI Assistant",
@@ -90,21 +107,6 @@
       "cityId": "bhm",
       "remote": true,
       "role": "Sales",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-salesloft-8318270",
-      "title": "People Operations Coordinator",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8318270",
-      "postedAt": "2026-11-18T12:46:43-05:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Operations",
       "blurb": "",
       "earlyCareer": true
     },
