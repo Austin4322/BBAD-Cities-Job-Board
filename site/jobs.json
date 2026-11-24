@@ -1,10 +1,56 @@
 {
-  "updatedAt": "2026-11-23T22:16:32.753Z",
-  "count": 29,
+  "updatedAt": "2026-11-24T20:54:09.347Z",
+  "count": 31,
   "newIds": [
-    "gh-salesloft-8404246"
+    "gh-fleetio-5308609007",
+    "gh-salesloft-8403492"
   ],
   "jobs": [
+    {
+      "id": "gh-fleetio-5308609007",
+      "title": "Implementation Manager - Enterprise",
+      "company": "Fleetio",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5308609007",
+      "postedAt": "2026-11-24T15:17:42-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "bhm",
+      "remote": true,
+      "role": "Other",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-salesloft-8403492",
+      "title": "Customer Success Manager ",
+      "company": "Salesloft",
+      "location": "United States, Remote",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8403492",
+      "postedAt": "2026-11-24T15:13:55-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": true,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
+    {
+      "id": "gh-stockx-8923935002",
+      "title": "Seasonal Operations Specialist - Night Shift",
+      "company": "StockX",
+      "location": "Douglasville, GA",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8923935002",
+      "postedAt": "2026-11-24T13:04:17-05:00",
+      "source": "Greenhouse",
+      "salary": "",
+      "cityId": "atl",
+      "remote": false,
+      "role": "Operations",
+      "blurb": "",
+      "earlyCareer": true
+    },
     {
       "id": "gh-salesloft-8404246",
       "title": "Senior Corporate Accountant - Tax",
@@ -42,21 +88,6 @@
       "location": "Douglasville, GA",
       "url": "https://job-boards.greenhouse.io/stockx/jobs/8928202002",
       "postedAt": "2026-11-19T15:52:58-05:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": false,
-      "role": "Operations",
-      "blurb": "",
-      "earlyCareer": true
-    },
-    {
-      "id": "gh-stockx-8923935002",
-      "title": "Seasonal Operations Specialist - Night Shift",
-      "company": "StockX",
-      "location": "Douglasville, GA",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8923935002",
-      "postedAt": "2026-11-19T09:16:35-05:00",
       "source": "Greenhouse",
       "salary": "",
       "cityId": "atl",
