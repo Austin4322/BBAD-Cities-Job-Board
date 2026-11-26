@@ -1,11 +1,7 @@
 {
-  "updatedAt": "2026-11-25T20:15:25.437Z",
-  "count": 32,
-  "newIds": [
-    "gh-salesloft-8384271",
-    "gh-fleetio-5308396007",
-    "gh-fleetio-5309413007"
-  ],
+  "updatedAt": "2026-11-26T19:53:22.606Z",
+  "count": 31,
+  "newIds": [],
   "jobs": [
     {
       "id": "gh-salesloft-8384271",
@@ -471,21 +467,6 @@
       "role": "Sales",
       "blurb": "",
       "earlyCareer": false
-    },
-    {
-      "id": "gh-salesloft-8119953",
-      "title": "Salesforce Business Systems Administrator",
-      "company": "Salesloft",
-      "location": "United States, Remote",
-      "url": "https://www.salesloft.com/company/careers?gh_jid=8119953",
-      "postedAt": "2026-10-26T17:26:17-04:00",
-      "source": "Greenhouse",
-      "salary": "",
-      "cityId": "atl",
-      "remote": true,
-      "role": "Sales",
-      "blurb": "",
-      "earlyCareer": true
     }
   ]
 }
